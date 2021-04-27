@@ -40,9 +40,9 @@ jobs:
         pip install -r requirements.txt
     - name: Run
       run: |
-        python process_mining.py
         python preprocessing.py
         python nli.py
         python cross_validation.py
         python keyword_classification.py
         python event_log_construction.py
+        python process_mining.py
