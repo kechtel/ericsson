@@ -1,7 +1,7 @@
 import os
 
 import pandas as pd
-from ericsson.cross_validation import evaluate_predictions
+from cross_validation import evaluate_predictions
 
 
 def parse_filename(filename):
