@@ -35,7 +35,9 @@ jobs:
           ${{ runner.os }}-pip-
           ${{ runner.os }}-
     - name: Install dependencies
-      run: pip install -r requirements.txt
+      run: |
+        sudo apt install python-pydot python-pydot-ng graphviz
+        pip install -r requirements.txt
     - name: Run
       run: |
         python preprocessing.py
