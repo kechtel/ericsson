@@ -1,0 +1,1552 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log>
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<int key="concept:name" value="19137" />
+		<event>
+			<int key="tweet_id" value="2435680" />
+			<date key="time:timestamp" value="2017-10-29T14:33:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@400095 We apologize for the delayed delivery. Kindly fill the details through the link mentioned above so that we can get it 1/2 ^PR" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="21049" />
+		<event>
+			<int key="tweet_id" value="21052" />
+			<date key="time:timestamp" value="2017-11-02T20:41:29" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@120613 Sorry about that. Could you please check if you've received an email in response to the details you shared earlier? ^NR" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+		<event>
+			<int key="tweet_id" value="21052" />
+			<date key="time:timestamp" value="2017-11-02T20:41:29" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@120613 Sorry about that. Could you please check if you've received an email in response to the details you shared earlier? ^NR" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="21490" />
+		<event>
+			<int key="tweet_id" value="21490" />
+			<date key="time:timestamp" value="2017-11-01T07:18:39" />
+			<string key="org:resource" value="120693" />
+			<string key="text" value="@115850 find ordered kindle wich was not delivered.He canceled order camp U agreed Bt after a month U i denying to give refund Disappointing" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Delivery" />
+		</event>
+		<event>
+			<int key="tweet_id" value="21490" />
+			<date key="time:timestamp" value="2017-11-01T07:18:39" />
+			<string key="org:resource" value="120693" />
+			<string key="text" value="@115850 find ordered kindle wich was not delivered.He canceled order camp U agreed Bt after a month U i denying to give refund Disappointing" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Kindle" />
+		</event>
+		<event>
+			<int key="tweet_id" value="21490" />
+			<date key="time:timestamp" value="2017-11-01T07:18:39" />
+			<string key="org:resource" value="120693" />
+			<string key="text" value="@115850 find ordered kindle wich was not delivered.He canceled order camp U agreed Bt after a month U i denying to give refund Disappointing" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Order Cancellation" />
+		</event>
+		<event>
+			<int key="tweet_id" value="21490" />
+			<date key="time:timestamp" value="2017-11-01T07:18:39" />
+			<string key="org:resource" value="120693" />
+			<string key="text" value="@115850 find ordered kindle wich was not delivered.He canceled order camp U agreed Bt after a month U i denying to give refund Disappointing" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Refund" />
+		</event>
+		<event>
+			<int key="tweet_id" value="21489" />
+			<date key="time:timestamp" value="2017-11-01T07:49:25" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@120693 here: https://t.co/beaaDm0muc and I’ll contact you soon. 2/2 ^AH" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="21552" />
+		<event>
+			<int key="tweet_id" value="21557" />
+			<date key="time:timestamp" value="2017-11-02T06:33:55" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@120701 any further insight in this case. Also, please don't provide your order details as our Twitter page is visible to public. 3/3 ^AB" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Request to not send personal details" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="163541" />
+		<event>
+			<int key="tweet_id" value="163539" />
+			<date key="time:timestamp" value="2017-11-24T19:36:24" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@153826 Truly sorry for the wait, Mark! Have we missed our expected delivery date listed here: https://t.co/aaDyEz1VgE ? Please, let us know if we have done so. Our shipping timers don't begin until your order ships. Learn more: https://t.co/sperNcn4wd ^JE" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="163539" />
+			<date key="time:timestamp" value="2017-11-24T19:36:24" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@153826 Truly sorry for the wait, Mark! Have we missed our expected delivery date listed here: https://t.co/aaDyEz1VgE ? Please, let us know if we have done so. Our shipping timers don't begin until your order ships. Learn more: https://t.co/sperNcn4wd ^JE" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide delivery date" />
+		</event>
+		<event>
+			<int key="tweet_id" value="163539" />
+			<date key="time:timestamp" value="2017-11-24T19:36:24" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@153826 Truly sorry for the wait, Mark! Have we missed our expected delivery date listed here: https://t.co/aaDyEz1VgE ? Please, let us know if we have done so. Our shipping timers don't begin until your order ships. Learn more: https://t.co/sperNcn4wd ^JE" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+		<event>
+			<int key="tweet_id" value="163539" />
+			<date key="time:timestamp" value="2017-11-24T19:36:24" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@153826 Truly sorry for the wait, Mark! Have we missed our expected delivery date listed here: https://t.co/aaDyEz1VgE ? Please, let us know if we have done so. Our shipping timers don't begin until your order ships. Learn more: https://t.co/sperNcn4wd ^JE" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="179669" />
+		<event>
+			<int key="tweet_id" value="179667" />
+			<date key="time:timestamp" value="2017-10-04T12:43:05" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@158315 You're welcome, thanks for contacting us! ^JJ" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="224220" />
+		<event>
+			<int key="tweet_id" value="224220" />
+			<date key="time:timestamp" value="2017-10-05T04:20:23" />
+			<string key="org:resource" value="169576" />
+			<string key="text" value="@115850 Really pathetic service from Amazon,being such a big brand but quality of service is not good they accept order then auto cancel" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Bad Support" />
+		</event>
+		<event>
+			<int key="tweet_id" value="224220" />
+			<date key="time:timestamp" value="2017-10-05T04:20:23" />
+			<string key="org:resource" value="169576" />
+			<string key="text" value="@115850 Really pathetic service from Amazon,being such a big brand but quality of service is not good they accept order then auto cancel" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Order Cancellation" />
+		</event>
+		<event>
+			<int key="tweet_id" value="224219" />
+			<date key="time:timestamp" value="2017-10-05T05:07:46" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@169576 Could you check for the same? (2/2) ^VM" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="292833" />
+		<event>
+			<int key="tweet_id" value="292825" />
+			<date key="time:timestamp" value="2017-10-06T16:55:18" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@185739 Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public. (2/2) ^ZH" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Request to not send personal details" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="334871" />
+		<event>
+			<int key="tweet_id" value="334869" />
+			<date key="time:timestamp" value="2017-10-07T20:41:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@195804 That's not the experience we like to see. Without posting any personal/account info, can you tell me about the issue? ^GG" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="379944" />
+		<event>
+			<int key="tweet_id" value="379943" />
+			<date key="time:timestamp" value="2017-10-09T07:49:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@206131 Apologies for the bad experience with your orders. Please report this here: https://t.co/vlvfJr4nN9 and we'll investigate. ^HK" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="379943" />
+			<date key="time:timestamp" value="2017-10-09T07:49:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@206131 Apologies for the bad experience with your orders. Please report this here: https://t.co/vlvfJr4nN9 and we'll investigate. ^HK" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="381735" />
+		<event>
+			<int key="tweet_id" value="381735" />
+			<date key="time:timestamp" value="2017-10-09T08:37:09" />
+			<string key="org:resource" value="206517" />
+			<string key="text" value="@115821 this is very bad service from amazon that i refund the item 20 days back but still i didn't get my money back... Disgusting..." />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Bad Support" />
+		</event>
+		<event>
+			<int key="tweet_id" value="381735" />
+			<date key="time:timestamp" value="2017-10-09T08:37:09" />
+			<string key="org:resource" value="206517" />
+			<string key="text" value="@115821 this is very bad service from amazon that i refund the item 20 days back but still i didn't get my money back... Disgusting..." />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Return" />
+		</event>
+		<event>
+			<int key="tweet_id" value="381735" />
+			<date key="time:timestamp" value="2017-10-09T08:37:09" />
+			<string key="org:resource" value="206517" />
+			<string key="text" value="@115821 this is very bad service from amazon that i refund the item 20 days back but still i didn't get my money back... Disgusting..." />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Refund" />
+		</event>
+		<event>
+			<int key="tweet_id" value="381733" />
+			<date key="time:timestamp" value="2017-10-09T10:07:28" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@206517 I'm sorry about the delay. Kindly connect with us here: https://t.co/vlvfJr4nN9 we'd like to help. ^SG" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="381733" />
+			<date key="time:timestamp" value="2017-10-09T10:07:28" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@206517 I'm sorry about the delay. Kindly connect with us here: https://t.co/vlvfJr4nN9 we'd like to help. ^SG" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="415441" />
+		<event>
+			<int key="tweet_id" value="415441" />
+			<date key="time:timestamp" value="2017-10-10T01:54:03" />
+			<string key="org:resource" value="214061" />
+			<string key="text" value="My slippers didn't come in today like they said they would i @115821 wif" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Delivery" />
+		</event>
+		<event>
+			<int key="tweet_id" value="415441" />
+			<date key="time:timestamp" value="2017-10-10T01:54:03" />
+			<string key="org:resource" value="214061" />
+			<string key="text" value="My slippers didn't come in today like they said they would i @115821 wif" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Order Cancellation" />
+		</event>
+		<event>
+			<int key="tweet_id" value="415439" />
+			<date key="time:timestamp" value="2017-10-10T02:10:18" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@214061 I'm sorry for this wait. Have you received a delivery update for your order? ^DO" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+		<event>
+			<int key="tweet_id" value="415439" />
+			<date key="time:timestamp" value="2017-10-10T02:10:18" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@214061 I'm sorry for this wait. Have you received a delivery update for your order? ^DO" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="430073" />
+		<event>
+			<int key="tweet_id" value="430078" />
+			<date key="time:timestamp" value="2017-10-11T05:13:26" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@216871 If you haven't received any correspondence, kindly fill your details again here:  https://t.co/2KLNFDs6Dx and we'll 1/2^SH" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="430078" />
+			<date key="time:timestamp" value="2017-10-11T05:13:26" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@216871 If you haven't received any correspondence, kindly fill your details again here:  https://t.co/2KLNFDs6Dx and we'll 1/2^SH" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+		<event>
+			<int key="tweet_id" value="430077" />
+			<date key="time:timestamp" value="2017-10-11T05:14:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@216871 get back to you on this. 2/2 ^SH" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="430683" />
+		<event>
+			<int key="tweet_id" value="430688" />
+			<date key="time:timestamp" value="2017-10-10T14:44:56" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@217420 I'm sorry about the delay in the delivery. Have you reported this to our support team here: https://t.co/vlvfJr4nN9 ? 1/2" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="430688" />
+			<date key="time:timestamp" value="2017-10-10T14:44:56" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@217420 I'm sorry about the delay in the delivery. Have you reported this to our support team here: https://t.co/vlvfJr4nN9 ? 1/2" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+		<event>
+			<int key="tweet_id" value="430688" />
+			<date key="time:timestamp" value="2017-10-10T14:44:56" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@217420 I'm sorry about the delay in the delivery. Have you reported this to our support team here: https://t.co/vlvfJr4nN9 ? 1/2" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Refer to specialist team" />
+		</event>
+		<event>
+			<int key="tweet_id" value="430680" />
+			<date key="time:timestamp" value="2017-10-10T14:45:31" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@217420 Please don’t provide the order details, we consider it to be personal info. Our Twitter page is visible to public. 2/2 ^MA" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Request to not send personal details" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="439759" />
+		<event>
+			<int key="tweet_id" value="439759" />
+			<date key="time:timestamp" value="2017-10-11T10:10:49" />
+			<string key="org:resource" value="219392" />
+			<string key="text" value="@115821 @115850 @AmazonHelp Pathetic, what is the reason for me specifying delivery time do ur delivery people know to read instructions https://t.co/xemYrnVDg6" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Delivery" />
+		</event>
+		<event>
+			<int key="tweet_id" value="439759" />
+			<date key="time:timestamp" value="2017-10-11T10:10:49" />
+			<string key="org:resource" value="219392" />
+			<string key="text" value="@115821 @115850 @AmazonHelp Pathetic, what is the reason for me specifying delivery time do ur delivery people know to read instructions https://t.co/xemYrnVDg6" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Bad Support" />
+		</event>
+		<event>
+			<int key="tweet_id" value="439758" />
+			<date key="time:timestamp" value="2017-10-11T10:20:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@219392 Also, please don't provide your order details as its personal info. Our Twitter page is visible to the public. 2/2 ^AB" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Request to not send personal details" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="523480" />
+		<event>
+			<int key="tweet_id" value="523479" />
+			<date key="time:timestamp" value="2017-12-02T04:40:07" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@240962 Seems like you had an unpleasant experience, Nilesh. Could you please let us know what went wrong? ^SC" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="526181" />
+		<event>
+			<int key="tweet_id" value="526181" />
+			<date key="time:timestamp" value="2017-12-02T06:27:27" />
+			<string key="org:resource" value="241744" />
+			<string key="text" value="@115850 @115821 @AmazonHelp @115821 Order # 402-0726587-9868359. It's been 18 days haven't read item so far Why so late When will I receive product Today is last expected day to deliver" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Delivery" />
+		</event>
+		<event>
+			<int key="tweet_id" value="526179" />
+			<date key="time:timestamp" value="2017-12-02T06:38:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@241744 Please don't provide your order details, we consider it to be personal information. Our page is visible to the public. (2/2) ^KA" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Request to not send personal details" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="568365" />
+		<event>
+			<int key="tweet_id" value="568366" />
+			<date key="time:timestamp" value="2017-12-03T03:47:27" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@253352 My team can make sure this is sent to Amazon Logistics directly. Please send us your details with this secure link: https://t.co/enF55BcdJK ^EP" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="568366" />
+			<date key="time:timestamp" value="2017-12-03T03:47:27" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@253352 My team can make sure this is sent to Amazon Logistics directly. Please send us your details with this secure link: https://t.co/enF55BcdJK ^EP" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Refer to specialist team" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="596819" />
+		<event>
+			<int key="tweet_id" value="596820" />
+			<date key="time:timestamp" value="2017-12-03T19:13:30" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@261474 Without including any account details, can you tell us more about what's happened? ^ZW" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="643661" />
+		<event>
+			<int key="tweet_id" value="643660" />
+			<date key="time:timestamp" value="2017-10-13T05:41:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@184638 Sorry to know the package hasn't been picked yet. Kindly reply to the email received from us and we'll get back to you. ^SH" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="668503" />
+		<event>
+			<int key="tweet_id" value="668501" />
+			<date key="time:timestamp" value="2017-11-23T04:04:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@279396 Yikes! I'm so sorry to hear your game arrived in such poor condition. That certainly isn't the experience we wanted for you. You can learn more about refunds for damaged items here: https://t.co/eOM3voFwg5. ^DG" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="668501" />
+			<date key="time:timestamp" value="2017-11-23T04:04:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@279396 Yikes! I'm so sorry to hear your game arrived in such poor condition. That certainly isn't the experience we wanted for you. You can learn more about refunds for damaged items here: https://t.co/eOM3voFwg5. ^DG" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="713326" />
+		<event>
+			<int key="tweet_id" value="713329" />
+			<date key="time:timestamp" value="2017-10-10T23:04:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@290616 I'm sorry you had this experience with us. Who was the carrier for this shipment? Was there a reason listed for the delay? ^DD" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+		<event>
+			<int key="tweet_id" value="713329" />
+			<date key="time:timestamp" value="2017-10-10T23:04:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@290616 I'm sorry you had this experience with us. Who was the carrier for this shipment? Was there a reason listed for the delay? ^DD" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="759009" />
+		<event>
+			<int key="tweet_id" value="759011" />
+			<date key="time:timestamp" value="2017-10-11T19:33:31" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@301369 I'm sorry to know this. Did you happen to escalate this to our support team here: https://t.co/T6y6Xlutbs? ^VN (1/2)" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="759011" />
+			<date key="time:timestamp" value="2017-10-11T19:33:31" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@301369 I'm sorry to know this. Did you happen to escalate this to our support team here: https://t.co/T6y6Xlutbs? ^VN (1/2)" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+		<event>
+			<int key="tweet_id" value="759011" />
+			<date key="time:timestamp" value="2017-10-11T19:33:31" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@301369 I'm sorry to know this. Did you happen to escalate this to our support team here: https://t.co/T6y6Xlutbs? ^VN (1/2)" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Refer to specialist team" />
+		</event>
+		<event>
+			<int key="tweet_id" value="759011" />
+			<date key="time:timestamp" value="2017-10-11T19:33:31" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@301369 I'm sorry to know this. Did you happen to escalate this to our support team here: https://t.co/T6y6Xlutbs? ^VN (1/2)" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+		<event>
+			<int key="tweet_id" value="759007" />
+			<date key="time:timestamp" value="2017-10-11T19:34:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@301369 Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public. ^VN (2/2)" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Request to not send personal details" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="763058" />
+		<event>
+			<int key="tweet_id" value="763060" />
+			<date key="time:timestamp" value="2017-10-11T21:30:15" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@302336 We'd like to have this looked into further. Please relay specifics to us securely here: https://t.co/AIH3VdiM8V ^MV" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="793311" />
+		<event>
+			<int key="tweet_id" value="793313" />
+			<date key="time:timestamp" value="2017-10-13T13:55:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@309162 I'm sorry about the disappointment. We're following up on this and we'll update you soon. ^SG" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="843539" />
+		<event>
+			<int key="tweet_id" value="843541" />
+			<date key="time:timestamp" value="2017-11-25T11:13:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@320578 I really do apologise for that Marc, have you mentioned that the second time you called?^MA" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+		<event>
+			<int key="tweet_id" value="843541" />
+			<date key="time:timestamp" value="2017-11-25T11:13:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@320578 I really do apologise for that Marc, have you mentioned that the second time you called?^MA" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="861135" />
+		<event>
+			<int key="tweet_id" value="861136" />
+			<date key="time:timestamp" value="2017-10-20T17:30:01" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@324481 Sorry about that! Here's the link to DM us! https://t.co/1XyLaGkcaN" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="861136" />
+			<date key="time:timestamp" value="2017-10-20T17:30:01" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@324481 Sorry about that! Here's the link to DM us! https://t.co/1XyLaGkcaN" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="911196" />
+		<event>
+			<int key="tweet_id" value="911197" />
+			<date key="time:timestamp" value="2017-10-21T07:12:31" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@336420 Please let us look into this with you by using this link: https://t.co/JzP7hlA23B ^DO" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1004517" />
+		<event>
+			<int key="tweet_id" value="1004517" />
+			<date key="time:timestamp" value="2017-11-25T17:12:40" />
+			<string key="org:resource" value="357763" />
+			<string key="text" value="@115830 don't remember saying leave my parcel on my doorstep ......thanks Amazon , good job it was still there when I came home ,😡😡 https://t.co/pQSC5tYy1Y" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Delivery" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1004516" />
+			<date key="time:timestamp" value="2017-11-25T17:25:56" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@357763 I'm sorry about this inconvenience! We'd like to assist you with this and take a closer look into it. Please provide your detailed information here: https://t.co/tVyp9aBG8y ^GP" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1004516" />
+			<date key="time:timestamp" value="2017-11-25T17:25:56" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@357763 I'm sorry about this inconvenience! We'd like to assist you with this and take a closer look into it. Please provide your detailed information here: https://t.co/tVyp9aBG8y ^GP" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1005973" />
+		<event>
+			<int key="tweet_id" value="1005974" />
+			<date key="time:timestamp" value="2017-10-27T19:44:08" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@358096 I'm sorry we've let you down! Without giving sensitive info, can you let us know what's going on so we can look into this? ^HS" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Request to not send personal details" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1005974" />
+			<date key="time:timestamp" value="2017-10-27T19:44:08" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@358096 I'm sorry we've let you down! Without giving sensitive info, can you let us know what's going on so we can look into this? ^HS" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1005974" />
+			<date key="time:timestamp" value="2017-10-27T19:44:08" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@358096 I'm sorry we've let you down! Without giving sensitive info, can you let us know what's going on so we can look into this? ^HS" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1028945" />
+		<event>
+			<int key="tweet_id" value="1028944" />
+			<date key="time:timestamp" value="2017-10-23T03:57:25" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@363463 Sorry to know about the trouble with the delivery of the order. I'd like to help. ^AK (1/3)" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1109437" />
+		<event>
+			<int key="tweet_id" value="1110906" />
+			<date key="time:timestamp" value="2017-10-15T10:29:54" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@378599 Could you confirm submitting the form here: https://t.co/GIJyeYqKE0 We'll be glad to work for a solution. 2/2 ^MJ" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1110905" />
+			<date key="time:timestamp" value="2017-10-15T10:30:27" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@378599 Please don't provide your tracking details, we consider it personal information. Our Twitter page is visible to public. ^MJ" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Request to not send personal details" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1114958" />
+		<event>
+			<int key="tweet_id" value="1114960" />
+			<date key="time:timestamp" value="2017-10-25T12:49:16" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@383106 Apologies for the unusual trouble with the pick-up. Kindly respond to the latest email you received from us and we'll help. ^MA" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1160426" />
+		<event>
+			<int key="tweet_id" value="1160422" />
+			<date key="time:timestamp" value="2017-10-15T18:52:27" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@315473 Please provide your details: https://t.co/KrvZWleeG1 and my team will investigate further. If needed, \'Skip sign in.\' ^EZ" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1160422" />
+			<date key="time:timestamp" value="2017-10-15T18:52:27" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@315473 Please provide your details: https://t.co/KrvZWleeG1 and my team will investigate further. If needed, \'Skip sign in.\' ^EZ" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Refer to specialist team" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1194328" />
+		<event>
+			<int key="tweet_id" value="1194325" />
+			<date key="time:timestamp" value="2017-10-15T23:48:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@400635 This isn't the experience we want you to have. Please contact us to report this delivery issue: https://t.co/JzP7hlA23B ^WT" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1197935" />
+		<event>
+			<int key="tweet_id" value="1197935" />
+			<date key="time:timestamp" value="2017-10-25T03:31:45" />
+			<string key="org:resource" value="401468" />
+			<string key="text" value="Hi @115850 @AmazonHelp please inquire about my order #403-0124796-0384329. No delivery as yet and no response from Seller." />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Delivery" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1197940" />
+			<date key="time:timestamp" value="2017-10-25T03:38:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@401468 I'm sorry you've not received your order. We'd like to look into it. Kindly report this to our support team (1/3)^SF" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1197940" />
+			<date key="time:timestamp" value="2017-10-25T03:38:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@401468 I'm sorry you've not received your order. We'd like to look into it. Kindly report this to our support team (1/3)^SF" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Refer to specialist team" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1223763" />
+		<event>
+			<int key="tweet_id" value="1223763" />
+			<date key="time:timestamp" value="2017-11-16T14:01:09" />
+			<string key="org:resource" value="407080" />
+			<string key="text" value="@AmazonHelp why is it my responsibility to contact when YOU lost my package Doesn’t seem like great customer service https://t.co/FjOoqHFzRA" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Delivery" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1223762" />
+			<date key="time:timestamp" value="2017-11-16T14:18:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@407080 Hi Melissa, I'm sorry about the inconvenience. We don't have access to any account or order information over Twitter to look into this for you. Have you been able to get in touch with us as advised? ^PJ" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1267630" />
+		<event>
+			<int key="tweet_id" value="1267633" />
+			<date key="time:timestamp" value="2017-10-26T17:12:49" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@240244 We'll have this reviewed internally. However, If you want to return the item you may approach our support team here: 1/3 ^NK" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Refer to specialist team" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1267631" />
+			<date key="time:timestamp" value="2017-10-26T17:14:31" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@240244 email correspondence that was sent to you by our team. 3/3 ^NK" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Refer to specialist team" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1303621" />
+		<event>
+			<int key="tweet_id" value="1303618" />
+			<date key="time:timestamp" value="2017-10-16T10:14:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@319629 Sorry for the hassle. Request you to reply to our email so that we could assist you further. ^GS" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1434051" />
+		<event>
+			<int key="tweet_id" value="1434051" />
+			<date key="time:timestamp" value="2017-10-28T20:29:48" />
+			<string key="org:resource" value="452961" />
+			<string key="text" value="@115830 Furious! Two items out for delivery today but driver didnt come as he couldnt find the address Pure lies He wanted early finish" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Delivery" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1434049" />
+			<date key="time:timestamp" value="2017-10-28T20:33:32" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@452961 I understand your frustration, Alan! Have we provided a new delivery date yoru order? ^CS" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide delivery date" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1434049" />
+			<date key="time:timestamp" value="2017-10-28T20:33:32" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@452961 I understand your frustration, Alan! Have we provided a new delivery date yoru order? ^CS" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1438586" />
+		<event>
+			<int key="tweet_id" value="1438585" />
+			<date key="time:timestamp" value="2017-11-02T10:48:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@453865 Did you just purchase a Kindle from us or is it lost in your home? ^AS" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1438590" />
+		<event>
+			<int key="tweet_id" value="1438587" />
+			<date key="time:timestamp" value="2017-11-02T10:53:32" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@426152 details again here: https://t.co/beaaDm0muc &amp; we'll assist you right away with your concern. (2/2)^SF" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1457327" />
+		<event>
+			<int key="tweet_id" value="1457327" />
+			<date key="time:timestamp" value="2017-10-19T04:39:32" />
+			<string key="org:resource" value="458245" />
+			<string key="text" value="Shame on you @115850 you even couldn't deliver an order after 15 days of order placed!!!" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Delivery" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1457327" />
+			<date key="time:timestamp" value="2017-10-19T04:39:32" />
+			<string key="org:resource" value="458245" />
+			<string key="text" value="Shame on you @115850 you even couldn't deliver an order after 15 days of order placed!!!" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Bad Support" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1457328" />
+			<date key="time:timestamp" value="2017-10-19T04:57:02" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@458245 Orders will be delivered by estimates given.  Can U please confirm if it is past estimated delivery date provided. (1/2)^VH" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide delivery date" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1457328" />
+			<date key="time:timestamp" value="2017-10-19T04:57:02" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@458245 Orders will be delivered by estimates given.  Can U please confirm if it is past estimated delivery date provided. (1/2)^VH" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1459062" />
+		<event>
+			<int key="tweet_id" value="1459062" />
+			<date key="time:timestamp" value="2017-11-03T20:25:57" />
+			<string key="org:resource" value="458657" />
+			<string key="text" value="@AmazonHelp my item ordered we next day delivery on Weds so already late has been out for delivery since 10am... where the hell is it" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Delivery" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1459060" />
+			<date key="time:timestamp" value="2017-11-03T20:36:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@458657 What delivery date was given in your order confirmation e-mail: https://t.co/ezP2xiPj6l? Has the date passed? Pls let us know! ^KJ" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1459060" />
+			<date key="time:timestamp" value="2017-11-03T20:36:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@458657 What delivery date was given in your order confirmation e-mail: https://t.co/ezP2xiPj6l? Has the date passed? Pls let us know! ^KJ" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide delivery date" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1459060" />
+			<date key="time:timestamp" value="2017-11-03T20:36:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@458657 What delivery date was given in your order confirmation e-mail: https://t.co/ezP2xiPj6l? Has the date passed? Pls let us know! ^KJ" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1464199" />
+		<event>
+			<int key="tweet_id" value="1464198" />
+			<date key="time:timestamp" value="2017-10-16T20:13:42" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@459854 That's odd, Deepak. We'd like to take a closer look. Please share your details here: https://t.co/GIJyeYqKE0. ^HD" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1486629" />
+		<event>
+			<int key="tweet_id" value="1486631" />
+			<date key="time:timestamp" value="2017-11-04T11:17:27" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@465247 You can share your inputs here: https://t.co/vlvfJr4nN9 ^SG" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1546689" />
+		<event>
+			<int key="tweet_id" value="1546691" />
+			<date key="time:timestamp" value="2017-11-04T09:08:28" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@478941 Sorry to know about the delay in the delivery. Kindly report this to our support team here: https://t.co/rS49hgsbvd ^AK" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1546691" />
+			<date key="time:timestamp" value="2017-11-04T09:08:28" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@478941 Sorry to know about the delay in the delivery. Kindly report this to our support team here: https://t.co/rS49hgsbvd ^AK" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1546691" />
+			<date key="time:timestamp" value="2017-11-04T09:08:28" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@478941 Sorry to know about the delay in the delivery. Kindly report this to our support team here: https://t.co/rS49hgsbvd ^AK" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Refer to specialist team" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1585316" />
+		<event>
+			<int key="tweet_id" value="1585319" />
+			<date key="time:timestamp" value="2017-11-04T21:31:30" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@487774 For more info, please refer here: https://t.co/WfzNUm2MA2. (3/3) ^SS" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1601089" />
+		<event>
+			<int key="tweet_id" value="1601092" />
+			<date key="time:timestamp" value="2017-11-07T11:21:27" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@299564 Sorry for the trouble. Please provide your details through the link and you'll get a response at the earliest. ^GU" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1646287" />
+		<event>
+			<int key="tweet_id" value="1646287" />
+			<date key="time:timestamp" value="2017-11-06T01:42:14" />
+			<string key="org:resource" value="503032" />
+			<string key="text" value="Not the #VM I expected from @115821 package delivery guys Others receive a heartwarming #nastygram weekend delivery (We were home btw.) https://t.co/LmPS4r0hur" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Delivery" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1646286" />
+			<date key="time:timestamp" value="2017-11-06T02:07:35" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@503032 I'm sorry for the poor experience! I'd like to escalate this, provide your order details here: https://t.co/c2hP9vF4rJ ^AR" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1646286" />
+			<date key="time:timestamp" value="2017-11-06T02:07:35" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@503032 I'm sorry for the poor experience! I'd like to escalate this, provide your order details here: https://t.co/c2hP9vF4rJ ^AR" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1660807" />
+		<event>
+			<int key="tweet_id" value="1660808" />
+			<date key="time:timestamp" value="2017-11-06T06:12:27" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@506618 your end. Please reach us via https://t.co/r8OjOk3OFb and we'll look into this for you. (2/2) ^VM" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1660806" />
+			<date key="time:timestamp" value="2017-11-06T06:13:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@506618 Please don’t provide your order details, we consider them as personal info. Our Twitter page is visible to public. ^VM" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Request to not send personal details" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1680119" />
+		<event>
+			<int key="tweet_id" value="1680119" />
+			<date key="time:timestamp" value="2017-11-06T15:47:10" />
+			<string key="org:resource" value="510909" />
+			<string key="text" value="Good gracious @115821, what sort of shipping method takes 6 weeks Is it coming from a Tibetan monastery on a mule https://t.co/BiXPJ4Xm9J" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Delivery" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1680117" />
+			<date key="time:timestamp" value="2017-11-06T15:53:31" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@510909 I'm sorry for the wait. Your item could be shipping from another country. Who's listed for carrier: https://t.co/Y5jpI9gRhE? ^AN" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1680117" />
+			<date key="time:timestamp" value="2017-11-06T15:53:31" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@510909 I'm sorry for the wait. Your item could be shipping from another country. Who's listed for carrier: https://t.co/Y5jpI9gRhE? ^AN" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1680117" />
+			<date key="time:timestamp" value="2017-11-06T15:53:31" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@510909 I'm sorry for the wait. Your item could be shipping from another country. Who's listed for carrier: https://t.co/Y5jpI9gRhE? ^AN" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1743694" />
+		<event>
+			<int key="tweet_id" value="1743690" />
+			<date key="time:timestamp" value="2017-11-07T18:44:02" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@525933 What does the current tracking status show when you check your order in the link provided by ^WM? ^NC" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1743885" />
+		<event>
+			<int key="tweet_id" value="1743887" />
+			<date key="time:timestamp" value="2017-11-07T15:25:32" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@525976 Did we mention if it was escalated or offer to follow up with you? If not, what info was given when you last spoke with us? ^LI" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2124925" />
+		<event>
+			<int key="tweet_id" value="2124923" />
+			<date key="time:timestamp" value="2017-11-08T18:07:29" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@625792 Apologies. We’d like to help you, please fill this form: https://t.co/beaaDm0muc and we’ll contact you soon. ^MN" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2124923" />
+			<date key="time:timestamp" value="2017-11-08T18:07:29" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@625792 Apologies. We’d like to help you, please fill this form: https://t.co/beaaDm0muc and we’ll contact you soon. ^MN" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2147947" />
+		<event>
+			<int key="tweet_id" value="2147945" />
+			<date key="time:timestamp" value="2017-11-09T00:17:31" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@631343 I'm sorry for the wait! Just to confirm; who's the carrier shown under tracking info: https://t.co/Y5jpI9gRhE?  ^WT" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2147945" />
+			<date key="time:timestamp" value="2017-11-09T00:17:31" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@631343 I'm sorry for the wait! Just to confirm; who's the carrier shown under tracking info: https://t.co/Y5jpI9gRhE?  ^WT" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2147945" />
+			<date key="time:timestamp" value="2017-11-09T00:17:31" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@631343 I'm sorry for the wait! Just to confirm; who's the carrier shown under tracking info: https://t.co/Y5jpI9gRhE?  ^WT" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2170886" />
+		<event>
+			<int key="tweet_id" value="2170884" />
+			<date key="time:timestamp" value="2017-11-09T12:55:23" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@636794 I'm sorry your parcel arrived in such poor shape! Please provide us with your feedback here: https://t.co/fxgZ6hTrFA We're always look to improve! ^ZW" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2170884" />
+			<date key="time:timestamp" value="2017-11-09T12:55:23" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@636794 I'm sorry your parcel arrived in such poor shape! Please provide us with your feedback here: https://t.co/fxgZ6hTrFA We're always look to improve! ^ZW" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2260594" />
+		<event>
+			<int key="tweet_id" value="2260595" />
+			<date key="time:timestamp" value="2017-11-13T13:25:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@658232 Did you happen to share your details in the link provided earlier ? ^AS" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2315673" />
+		<event>
+			<int key="tweet_id" value="2315673" />
+			<date key="time:timestamp" value="2017-10-19T22:37:59" />
+			<string key="org:resource" value="600290" />
+			<string key="text" value="So... How does it take @115821 5 days to pick and ship an order Their #customerservice is getting rancid https://t.co/1O009IkXhn" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Delivery" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2315673" />
+			<date key="time:timestamp" value="2017-10-19T22:37:59" />
+			<string key="org:resource" value="600290" />
+			<string key="text" value="So... How does it take @115821 5 days to pick and ship an order Their #customerservice is getting rancid https://t.co/1O009IkXhn" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Bad Support" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2315671" />
+			<date key="time:timestamp" value="2017-10-19T22:58:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@600290 We expect it to arrive by the date in Your Orders. For more on how the date is calculated, visit: https://t.co/Z4XKI9SymQ ^SJ" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2315671" />
+			<date key="time:timestamp" value="2017-10-19T22:58:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@600290 We expect it to arrive by the date in Your Orders. For more on how the date is calculated, visit: https://t.co/Z4XKI9SymQ ^SJ" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide delivery date" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2318622" />
+		<event>
+			<int key="tweet_id" value="2318619" />
+			<date key="time:timestamp" value="2017-11-13T10:59:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@672113 Apologies for the experience We'd like to know what went wrong. Please share your details here: https://t.co/GIJyeYqKE0. ^BS" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2318619" />
+			<date key="time:timestamp" value="2017-11-13T10:59:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@672113 Apologies for the experience We'd like to know what went wrong. Please share your details here: https://t.co/GIJyeYqKE0. ^BS" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2338638" />
+		<event>
+			<int key="tweet_id" value="2338636" />
+			<date key="time:timestamp" value="2017-10-20T06:44:28" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@676542 That's strange. Please report this to our support team here: https://t.co/vlvfJr4nN9  for assistance with it. 1/2 ^RS" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2338636" />
+			<date key="time:timestamp" value="2017-10-20T06:44:28" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@676542 That's strange. Please report this to our support team here: https://t.co/vlvfJr4nN9  for assistance with it. 1/2 ^RS" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Refer to specialist team" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2338639" />
+			<date key="time:timestamp" value="2017-10-20T06:45:53" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@676542 Also, don’t provide your order tracking details as its personal information. Our Twitter page is visible to public. 2/2 ^RS" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Request to not send personal details" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2360572" />
+		<event>
+			<int key="tweet_id" value="2360574" />
+			<date key="time:timestamp" value="2017-11-13T21:03:35" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@439571 Oh no! There are several reasons that might cause a delay. Sometimes bad weather, natural disasters and unexpected events can occur.  Has the delivery date changed on your tracking: https://t.co/Y5jpI9gRhE  Please let us know! ^SP" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2360574" />
+			<date key="time:timestamp" value="2017-11-13T21:03:35" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@439571 Oh no! There are several reasons that might cause a delay. Sometimes bad weather, natural disasters and unexpected events can occur.  Has the delivery date changed on your tracking: https://t.co/Y5jpI9gRhE  Please let us know! ^SP" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide delivery date" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2360574" />
+			<date key="time:timestamp" value="2017-11-13T21:03:35" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@439571 Oh no! There are several reasons that might cause a delay. Sometimes bad weather, natural disasters and unexpected events can occur.  Has the delivery date changed on your tracking: https://t.co/Y5jpI9gRhE  Please let us know! ^SP" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2406831" />
+		<event>
+			<int key="tweet_id" value="2406831" />
+			<date key="time:timestamp" value="2017-11-14T15:25:00" />
+			<string key="org:resource" value="256182" />
+			<string key="text" value="Yo @115821 @amazonhelp How many days does something have to be in transit before you finally admit that it's lost Cause it's been in transit since FRIDAY" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Delivery" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2406829" />
+			<date key="time:timestamp" value="2017-11-14T15:33:05" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@256182 Hey Jan, what is the latest order status, and is there any tracking ?  https://t.co/aaDyEz1VgE ^BD" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2406829" />
+			<date key="time:timestamp" value="2017-11-14T15:33:05" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@256182 Hey Jan, what is the latest order status, and is there any tracking ?  https://t.co/aaDyEz1VgE ^BD" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2416390" />
+		<event>
+			<int key="tweet_id" value="2416389" />
+			<date key="time:timestamp" value="2017-10-29T09:18:27" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@126983 Looks like you've had an unpleasant experience. Could you please elaborate on your concern so we can help you better? ^ZH" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2420297" />
+		<event>
+			<int key="tweet_id" value="2420300" />
+			<date key="time:timestamp" value="2017-10-29T16:20:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@695257 I'm sorry to hear about the trouble you've had with your order. Kindly share your 1/2 ^KH" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2434170" />
+		<event>
+			<int key="tweet_id" value="2434172" />
+			<date key="time:timestamp" value="2017-10-29T14:22:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@698513 My team would like to look into this. Please send us further details here: https://t.co/DD0AoCXyYQ ^AB" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2434172" />
+			<date key="time:timestamp" value="2017-10-29T14:22:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@698513 My team would like to look into this. Please send us further details here: https://t.co/DD0AoCXyYQ ^AB" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Refer to specialist team" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2449328" />
+		<event>
+			<int key="tweet_id" value="2449326" />
+			<date key="time:timestamp" value="2017-11-15T03:11:33" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@702018 I'm sorry you haven't received your order yet! Which carrier was scheduled to deliver your package? You can check here: https://t.co/Y5jpI9gRhE ^TN" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2449326" />
+			<date key="time:timestamp" value="2017-11-15T03:11:33" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@702018 I'm sorry you haven't received your order yet! Which carrier was scheduled to deliver your package? You can check here: https://t.co/Y5jpI9gRhE ^TN" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2449326" />
+			<date key="time:timestamp" value="2017-11-15T03:11:33" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@702018 I'm sorry you haven't received your order yet! Which carrier was scheduled to deliver your package? You can check here: https://t.co/Y5jpI9gRhE ^TN" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2475919" />
+		<event>
+			<int key="tweet_id" value="2475910" />
+			<date key="time:timestamp" value="2017-11-15T14:11:30" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@707772 We don't intend to hurt your sentiments. However, replacement is the only option for electronic consumer item. You can check details here: https://t.co/L1neQOHOvr. ^CB" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2627675" />
+		<event>
+			<int key="tweet_id" value="2627675" />
+			<date key="time:timestamp" value="2017-11-17T16:52:03" />
+			<string key="org:resource" value="742156" />
+			<string key="text" value="#Amazon logistics Great toss https://t.co/486aiESxTz" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Delivery" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2627674" />
+			<date key="time:timestamp" value="2017-11-17T16:58:53" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@742156 I'm so sorry for how your package was delivered, June! Please send us further details so that my team can look into this: https://t.co/iYggqv553N ^AB" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2627674" />
+			<date key="time:timestamp" value="2017-11-17T16:58:53" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@742156 I'm so sorry for how your package was delivered, June! Please send us further details so that my team can look into this: https://t.co/iYggqv553N ^AB" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2627674" />
+			<date key="time:timestamp" value="2017-11-17T16:58:53" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@742156 I'm so sorry for how your package was delivered, June! Please send us further details so that my team can look into this: https://t.co/iYggqv553N ^AB" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Refer to specialist team" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2644153" />
+		<event>
+			<int key="tweet_id" value="2644153" />
+			<date key="time:timestamp" value="2017-10-31T03:38:05" />
+			<string key="org:resource" value="689939" />
+			<string key="text" value="#onlineshopping is risky returned laptop @115850 Order No: 408-8703393-1729167. Lost both - money and laptop amazon can not track" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Return" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2644154" />
+			<date key="time:timestamp" value="2017-10-31T03:47:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@689939 here: https://t.co/beaaDm0muc &amp; we'll get this sorted for you.  Also, please don't provide (2/3)^SF" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2644154" />
+			<date key="time:timestamp" value="2017-10-31T03:47:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@689939 here: https://t.co/beaaDm0muc &amp; we'll get this sorted for you.  Also, please don't provide (2/3)^SF" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Request to not send personal details" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2790448" />
+		<event>
+			<int key="tweet_id" value="2790446" />
+			<date key="time:timestamp" value="2017-11-21T20:16:31" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@778825 I understand where you're coming from, for sure. Are you noticing this happen more often with a certain carrier? You can check your recent orders here: https://t.co/Y5jpI9gRhE ^DW" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2790446" />
+			<date key="time:timestamp" value="2017-11-21T20:16:31" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@778825 I understand where you're coming from, for sure. Are you noticing this happen more often with a certain carrier? You can check your recent orders here: https://t.co/Y5jpI9gRhE ^DW" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2840142" />
+		<event>
+			<int key="tweet_id" value="2840145" />
+			<date key="time:timestamp" value="2017-11-27T17:05:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@442785 Did you purchase the book from Amazon or did you convert the file by sending it to your Kindle: https://t.co/mW6pcQlCD0? ^AF" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2840145" />
+			<date key="time:timestamp" value="2017-11-27T17:05:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@442785 Did you purchase the book from Amazon or did you convert the file by sending it to your Kindle: https://t.co/mW6pcQlCD0? ^AF" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2935753" />
+		<event>
+			<int key="tweet_id" value="2935751" />
+			<date key="time:timestamp" value="2017-11-29T11:12:55" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@565773 My apologies for this. If you haven't used any of the benefits, you can cancel for a refund here: https://t.co/pWAVGNF2f3. ^DC" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2935751" />
+			<date key="time:timestamp" value="2017-11-29T11:12:55" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@565773 My apologies for this. If you haven't used any of the benefits, you can cancel for a refund here: https://t.co/pWAVGNF2f3. ^DC" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2941946" />
+		<event>
+			<int key="tweet_id" value="2941946" />
+			<date key="time:timestamp" value="2017-11-29T13:57:50" />
+			<string key="org:resource" value="812836" />
+			<string key="text" value="Extremely disappointed with the service from @115830. Misleading prime members happy to take peoples money and staff all contradicting themselves" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Prime" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2941946" />
+			<date key="time:timestamp" value="2017-11-29T13:57:50" />
+			<string key="org:resource" value="812836" />
+			<string key="text" value="Extremely disappointed with the service from @115830. Misleading prime members happy to take peoples money and staff all contradicting themselves" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Bad Support" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2941944" />
+			<date key="time:timestamp" value="2017-11-29T14:11:30" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@812836 I apologize for the disappointment, Rob! This is definitely not the customer experience we strive for. Can you tell us more about what's going on? ^SC" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2941944" />
+			<date key="time:timestamp" value="2017-11-29T14:11:30" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@812836 I apologize for the disappointment, Rob! This is definitely not the customer experience we strive for. Can you tell us more about what's going on? ^SC" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2976528" />
+		<event>
+			<int key="tweet_id" value="2976525" />
+			<date key="time:timestamp" value="2017-11-30T03:18:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@820896 I'm terribly sorry for any inconvenience! When you reached out to us what options and insight did we provide? To confirm, have you received your order or are you still waiting? We want to ensure it arrives to you! ^GM" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Apologize" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2976525" />
+			<date key="time:timestamp" value="2017-11-30T03:18:00" />
+			<string key="org:resource" value="AmazonHelp" />
+			<string key="text" value="@820896 I'm terribly sorry for any inconvenience! When you reached out to us what options and insight did we provide? To confirm, have you received your order or are you still waiting? We want to ensure it arrives to you! ^GM" />
+			<string key="company" value="AmazonHelp" />
+			<string key="concept:name" value="Investigate Issue" />
+		</event>
+	</trace>
+</log>

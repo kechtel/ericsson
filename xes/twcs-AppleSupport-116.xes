@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log>
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<int key="concept:name" value="52314" />
+		<event>
+			<int key="tweet_id" value="52312" />
+			<date key="time:timestamp" value="2017-11-01T18:17:26" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@127767 We can help. We're you able to go through the article we sent you?" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="233964" />
+		<event>
+			<int key="tweet_id" value="669845" />
+			<date key="time:timestamp" value="2017-10-05T14:42:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@279762 We'd love to help with any issues you're experiencing. Let us know if this guide helps: https://t.co/TpjqFp3jxD" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="299081" />
+		<event>
+			<int key="tweet_id" value="299081" />
+			<date key="time:timestamp" value="2017-10-06T16:31:46" />
+			<string key="org:resource" value="187289" />
+			<string key="text" value="punching myself for downloading IOS 11 cause now my battery dies quicker than my unproductive trips to the gym thanks @115858 you suck" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="iPhone" />
+		</event>
+		<event>
+			<int key="tweet_id" value="299081" />
+			<date key="time:timestamp" value="2017-10-06T16:31:46" />
+			<string key="org:resource" value="187289" />
+			<string key="text" value="punching myself for downloading IOS 11 cause now my battery dies quicker than my unproductive trips to the gym thanks @115858 you suck" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Update" />
+		</event>
+		<event>
+			<int key="tweet_id" value="299081" />
+			<date key="time:timestamp" value="2017-10-06T16:31:46" />
+			<string key="org:resource" value="187289" />
+			<string key="text" value="punching myself for downloading IOS 11 cause now my battery dies quicker than my unproductive trips to the gym thanks @115858 you suck" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Battery" />
+		</event>
+		<event>
+			<int key="tweet_id" value="299080" />
+			<date key="time:timestamp" value="2017-10-06T19:44:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@187289 We want your iPhone ready when you are.  Let's talk in DM about your battery concern. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="299080" />
+			<date key="time:timestamp" value="2017-10-06T19:44:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@187289 We want your iPhone ready when you are.  Let's talk in DM about your battery concern. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="352835" />
+		<event>
+			<int key="tweet_id" value="352835" />
+			<date key="time:timestamp" value="2017-10-08T04:20:41" />
+			<string key="org:resource" value="199884" />
+			<string key="text" value="honestly fuck @115858 be my phone has been freezing/lagging EVER SINCE i updated im pissed" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="iPhone" />
+		</event>
+		<event>
+			<int key="tweet_id" value="352835" />
+			<date key="time:timestamp" value="2017-10-08T04:20:41" />
+			<string key="org:resource" value="199884" />
+			<string key="text" value="honestly fuck @115858 be my phone has been freezing/lagging EVER SINCE i updated im pissed" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Update" />
+		</event>
+		<event>
+			<int key="tweet_id" value="352835" />
+			<date key="time:timestamp" value="2017-10-08T04:20:41" />
+			<string key="org:resource" value="199884" />
+			<string key="text" value="honestly fuck @115858 be my phone has been freezing/lagging EVER SINCE i updated im pissed" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Unresponsive/Freezing Device" />
+		</event>
+		<event>
+			<int key="tweet_id" value="352834" />
+			<date key="time:timestamp" value="2017-10-08T13:25:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@199884 That's not the experience we want you to have. Which phone and iOS version are you using?" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request device model" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="483262" />
+		<event>
+			<int key="tweet_id" value="483262" />
+			<date key="time:timestamp" value="2017-12-01T06:52:43" />
+			<string key="org:resource" value="229950" />
+			<string key="text" value="@115858 High Sierra OS sucked the life out of my 2 yr old MBP. You have killed my productivity camp replaced it with a spinning beach ball #HighSierrasucks #badapple crushed" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Mac" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="506589" />
+		<event>
+			<int key="tweet_id" value="506589" />
+			<date key="time:timestamp" value="2017-12-01T20:46:13" />
+			<string key="org:resource" value="236242" />
+			<string key="text" value="ios 11.1.2 battery @applesupport All of my incoming and outgoing calls are failing I can't use my telephone to make a telephone call HELP!" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="iPhone" />
+		</event>
+		<event>
+			<int key="tweet_id" value="506589" />
+			<date key="time:timestamp" value="2017-12-01T20:46:13" />
+			<string key="org:resource" value="236242" />
+			<string key="text" value="ios 11.1.2 battery @applesupport All of my incoming and outgoing calls are failing I can't use my telephone to make a telephone call HELP!" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="iCloud" />
+		</event>
+		<event>
+			<int key="tweet_id" value="506588" />
+			<date key="time:timestamp" value="2017-12-01T21:14:31" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@236242 We know how important it is to be able to make and receive calls! Have you attempted any troubleshooting since noticing this? Even small things like restarting? Let us know in a DM. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="506588" />
+			<date key="time:timestamp" value="2017-12-01T21:14:31" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@236242 We know how important it is to be able to make and receive calls! Have you attempted any troubleshooting since noticing this? Even small things like restarting? Let us know in a DM. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="506588" />
+			<date key="time:timestamp" value="2017-12-01T21:14:31" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@236242 We know how important it is to be able to make and receive calls! Have you attempted any troubleshooting since noticing this? Even small things like restarting? Let us know in a DM. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+		<event>
+			<int key="tweet_id" value="506588" />
+			<date key="time:timestamp" value="2017-12-01T21:14:31" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@236242 We know how important it is to be able to make and receive calls! Have you attempted any troubleshooting since noticing this? Even small things like restarting? Let us know in a DM. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request device restart" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="517099" />
+		<event>
+			<int key="tweet_id" value="517099" />
+			<date key="time:timestamp" value="2017-12-02T00:49:14" />
+			<string key="org:resource" value="239224" />
+			<string key="text" value="@119973 @AppleSupport my Apple TV is up to date and yet it continues to crash watching Netflix. Provider is @23563 Seriously how can this be fixed Yes I have unplugged camp reset" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Unresponsive/Freezing Device" />
+		</event>
+		<event>
+			<int key="tweet_id" value="517098" />
+			<date key="time:timestamp" value="2017-12-02T01:39:52" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@239224 We want you to be able to enjoy your shows on your Apple TV. Please visit us here for more assistance: https://t.co/IBIY3w3RGR" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="517098" />
+			<date key="time:timestamp" value="2017-12-02T01:39:52" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@239224 We want you to be able to enjoy your shows on your Apple TV. Please visit us here for more assistance: https://t.co/IBIY3w3RGR" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="566775" />
+		<event>
+			<int key="tweet_id" value="566778" />
+			<date key="time:timestamp" value="2017-12-03T01:56:30" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@224206 What version of watchOS, and iOS are you running on your devices? DM us back. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="566778" />
+			<date key="time:timestamp" value="2017-12-03T01:56:30" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@224206 What version of watchOS, and iOS are you running on your devices? DM us back. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="566778" />
+			<date key="time:timestamp" value="2017-12-03T01:56:30" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@224206 What version of watchOS, and iOS are you running on your devices? DM us back. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request device model" />
+		</event>
+		<event>
+			<int key="tweet_id" value="566778" />
+			<date key="time:timestamp" value="2017-12-03T01:56:30" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@224206 What version of watchOS, and iOS are you running on your devices? DM us back. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="642027" />
+		<event>
+			<int key="tweet_id" value="642025" />
+			<date key="time:timestamp" value="2017-11-22T20:33:28" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@272367 Let’s get you pointed in the right direction. Our @159983 team will take it from here." />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Refer to specialist team" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="666239" />
+		<event>
+			<int key="tweet_id" value="666237" />
+			<date key="time:timestamp" value="2017-11-23T02:50:29" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@278721 We can help you make a Genius Bar appointment. DM us with more details on what needs to be repaired. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="666237" />
+			<date key="time:timestamp" value="2017-11-23T02:50:29" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@278721 We can help you make a Genius Bar appointment. DM us with more details on what needs to be repaired. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="666237" />
+			<date key="time:timestamp" value="2017-11-23T02:50:29" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@278721 We can help you make a Genius Bar appointment. DM us with more details on what needs to be repaired. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="826656" />
+		<event>
+			<int key="tweet_id" value="826654" />
+			<date key="time:timestamp" value="2017-10-13T01:30:57" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@316911 We can look into what's going on with iTunes. What errors are you experiencing?" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="874533" />
+		<event>
+			<int key="tweet_id" value="874533" />
+			<date key="time:timestamp" value="2017-10-09T20:25:03" />
+			<string key="org:resource" value="327626" />
+			<string key="text" value="Why don't my custom ringtones work after upgrading my iPhone IOS @AppleSupport ???? Grrrrrr" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="iPhone" />
+		</event>
+		<event>
+			<int key="tweet_id" value="874533" />
+			<date key="time:timestamp" value="2017-10-09T20:25:03" />
+			<string key="org:resource" value="327626" />
+			<string key="text" value="Why don't my custom ringtones work after upgrading my iPhone IOS @AppleSupport ???? Grrrrrr" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Update" />
+		</event>
+		<event>
+			<int key="tweet_id" value="874532" />
+			<date key="time:timestamp" value="2017-10-09T21:16:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@327626 We'd like to discuss your issue further in DM. Let's meet up there: https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="874532" />
+			<date key="time:timestamp" value="2017-10-09T21:16:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@327626 We'd like to discuss your issue further in DM. Let's meet up there: https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="874532" />
+			<date key="time:timestamp" value="2017-10-09T21:16:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@327626 We'd like to discuss your issue further in DM. Let's meet up there: https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="927727" />
+		<event>
+			<int key="tweet_id" value="927727" />
+			<date key="time:timestamp" value="2017-10-13T22:21:39" />
+			<string key="org:resource" value="340117" />
+			<string key="text" value="Hey @115858 my IPhone battery life isn't accurately being represented due to your latest update @AppleSupport https://t.co/7JpwoXigWm" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="iPhone" />
+		</event>
+		<event>
+			<int key="tweet_id" value="927727" />
+			<date key="time:timestamp" value="2017-10-13T22:21:39" />
+			<string key="org:resource" value="340117" />
+			<string key="text" value="Hey @115858 my IPhone battery life isn't accurately being represented due to your latest update @AppleSupport https://t.co/7JpwoXigWm" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Update" />
+		</event>
+		<event>
+			<int key="tweet_id" value="927727" />
+			<date key="time:timestamp" value="2017-10-13T22:21:39" />
+			<string key="org:resource" value="340117" />
+			<string key="text" value="Hey @115858 my IPhone battery life isn't accurately being represented due to your latest update @AppleSupport https://t.co/7JpwoXigWm" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Battery" />
+		</event>
+		<event>
+			<int key="tweet_id" value="927726" />
+			<date key="time:timestamp" value="2017-10-13T22:30:30" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@340117 Let's peek into this together. Send us a DM with more about what you're experinceing and we'll go from there. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="927726" />
+			<date key="time:timestamp" value="2017-10-13T22:30:30" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@340117 Let's peek into this together. Send us a DM with more about what you're experinceing and we'll go from there. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="927726" />
+			<date key="time:timestamp" value="2017-10-13T22:30:30" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@340117 Let's peek into this together. Send us a DM with more about what you're experinceing and we'll go from there. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="959716" />
+		<event>
+			<int key="tweet_id" value="959716" />
+			<date key="time:timestamp" value="2017-10-21T23:43:06" />
+			<string key="org:resource" value="347704" />
+			<string key="text" value="@AppleSupport hello im using ios 11 and an ipad mini i the app store is stuck at the loading screen plus fix thank you" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="iPad" />
+		</event>
+		<event>
+			<int key="tweet_id" value="959715" />
+			<date key="time:timestamp" value="2017-10-22T02:01:53" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@347704 Have you updated to 11.0.3 yet? https://t.co/80YRnjDFDk DM us and let us know. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="959715" />
+			<date key="time:timestamp" value="2017-10-22T02:01:53" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@347704 Have you updated to 11.0.3 yet? https://t.co/80YRnjDFDk DM us and let us know. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="959715" />
+			<date key="time:timestamp" value="2017-10-22T02:01:53" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@347704 Have you updated to 11.0.3 yet? https://t.co/80YRnjDFDk DM us and let us know. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="963465" />
+		<event>
+			<int key="tweet_id" value="963463" />
+			<date key="time:timestamp" value="2017-10-11T15:19:26" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@348659 We want to get your computer running properly.  Which computer, and MacOS are you running? https://t.co/aTSJR8BjEc" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="963463" />
+			<date key="time:timestamp" value="2017-10-11T15:19:26" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@348659 We want to get your computer running properly.  Which computer, and MacOS are you running? https://t.co/aTSJR8BjEc" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1012985" />
+		<event>
+			<int key="tweet_id" value="1012991" />
+			<date key="time:timestamp" value="2017-10-14T15:36:30" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@359704 Is it a specific app that's slow? Can you give us some more details so we can try to resolve this? Send us a DM. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1012991" />
+			<date key="time:timestamp" value="2017-10-14T15:36:30" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@359704 Is it a specific app that's slow? Can you give us some more details so we can try to resolve this? Send us a DM. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1012991" />
+			<date key="time:timestamp" value="2017-10-14T15:36:30" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@359704 Is it a specific app that's slow? Can you give us some more details so we can try to resolve this? Send us a DM. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1088824" />
+		<event>
+			<int key="tweet_id" value="1088824" />
+			<date key="time:timestamp" value="2017-10-23T18:57:23" />
+			<string key="org:resource" value="376845" />
+			<string key="text" value="@AppleSupport restoration attempts are failing for my iphone 6 plus what else can i do" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="iPhone" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1088823" />
+			<date key="time:timestamp" value="2017-10-23T19:07:30" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@376845 We'd love to help you. Please tell us more about your situation and we'll look at our options to help." />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1128255" />
+		<event>
+			<int key="tweet_id" value="1128254" />
+			<date key="time:timestamp" value="2017-10-15T14:37:31" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@385980 We're happy to help. The Apple Watch will have its own GPS. More information here: https://t.co/jD4ilgjPHG" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1128254" />
+			<date key="time:timestamp" value="2017-10-15T14:37:31" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@385980 We're happy to help. The Apple Watch will have its own GPS. More information here: https://t.co/jD4ilgjPHG" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1131476" />
+		<event>
+			<int key="tweet_id" value="1131476" />
+			<date key="time:timestamp" value="2017-11-01T16:41:06" />
+			<string key="org:resource" value="127220" />
+			<string key="text" value="Is yall gonna fix ioses or nah @115858? I'm tired of my shit crashing" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="iPhone" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1131476" />
+			<date key="time:timestamp" value="2017-11-01T16:41:06" />
+			<string key="org:resource" value="127220" />
+			<string key="text" value="Is yall gonna fix ioses or nah @115858? I'm tired of my shit crashing" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Unresponsive/Freezing Device" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1131476" />
+			<date key="time:timestamp" value="2017-11-01T16:41:06" />
+			<string key="org:resource" value="127220" />
+			<string key="text" value="Is yall gonna fix ioses or nah @115858? I'm tired of my shit crashing" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="iCloud" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1131475" />
+			<date key="time:timestamp" value="2017-11-01T17:21:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@127220 We can help. Does the iPhone completely restart or do you have issues with apps? DM us here: https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1131475" />
+			<date key="time:timestamp" value="2017-11-01T17:21:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@127220 We can help. Does the iPhone completely restart or do you have issues with apps? DM us here: https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1131475" />
+			<date key="time:timestamp" value="2017-11-01T17:21:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@127220 We can help. Does the iPhone completely restart or do you have issues with apps? DM us here: https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1131475" />
+			<date key="time:timestamp" value="2017-11-01T17:21:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@127220 We can help. Does the iPhone completely restart or do you have issues with apps? DM us here: https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request device restart" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1132193" />
+		<event>
+			<int key="tweet_id" value="1132193" />
+			<date key="time:timestamp" value="2017-10-24T03:10:41" />
+			<string key="org:resource" value="386794" />
+			<string key="text" value="@AppleSupport hi there now that you have #applepay in UAE, time to update this list in https://t.co/flY2zKLpTA https://t.co/WzIex75aMg" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Update" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1132191" />
+			<date key="time:timestamp" value="2017-10-24T12:18:27" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@386794 We'd be happy to look into this further with you. Send us a DM and we'll go from there. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1132191" />
+			<date key="time:timestamp" value="2017-10-24T12:18:27" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@386794 We'd be happy to look into this further with you. Send us a DM and we'll go from there. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1173055" />
+		<event>
+			<int key="tweet_id" value="1173053" />
+			<date key="time:timestamp" value="2017-10-24T20:12:20" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@395906 Hey there! Good question! Here's information on some controls that Parental Controls allows: https://t.co/ZOXnGWIMDN" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1173053" />
+			<date key="time:timestamp" value="2017-10-24T20:12:20" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@395906 Hey there! Good question! Here's information on some controls that Parental Controls allows: https://t.co/ZOXnGWIMDN" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1218361" />
+		<event>
+			<int key="tweet_id" value="1218364" />
+			<date key="time:timestamp" value="2017-10-25T15:46:53" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@364280 Is the iPhone running 11.0.3? https://t.co/80YRnjDFDk Send us a DM and also let us know the country you're located in. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1218364" />
+			<date key="time:timestamp" value="2017-10-25T15:46:53" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@364280 Is the iPhone running 11.0.3? https://t.co/80YRnjDFDk Send us a DM and also let us know the country you're located in. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1218364" />
+			<date key="time:timestamp" value="2017-10-25T15:46:53" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@364280 Is the iPhone running 11.0.3? https://t.co/80YRnjDFDk Send us a DM and also let us know the country you're located in. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request iOS version" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1218364" />
+			<date key="time:timestamp" value="2017-10-25T15:46:53" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@364280 Is the iPhone running 11.0.3? https://t.co/80YRnjDFDk Send us a DM and also let us know the country you're located in. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request device model" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1218364" />
+			<date key="time:timestamp" value="2017-10-25T15:46:53" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@364280 Is the iPhone running 11.0.3? https://t.co/80YRnjDFDk Send us a DM and also let us know the country you're located in. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1224197" />
+		<event>
+			<int key="tweet_id" value="1224193" />
+			<date key="time:timestamp" value="2017-10-16T16:11:01" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@158799 What happens if you try to remove a song from your library? Does it allow that, or does it still do nothing?" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1364806" />
+		<event>
+			<int key="tweet_id" value="1364808" />
+			<date key="time:timestamp" value="2017-10-27T23:05:26" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@437766 Do you have this issues with other devices that are connecting with your Bluetooth speaker?" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1372513" />
+		<event>
+			<int key="tweet_id" value="1372511" />
+			<date key="time:timestamp" value="2017-11-07T21:24:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@439425 Thanks for that info. Go ahead and DM us and we'll be glad to help further. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1372511" />
+			<date key="time:timestamp" value="2017-11-07T21:24:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@439425 Thanks for that info. Go ahead and DM us and we'll be glad to help further. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1432417" />
+		<event>
+			<int key="tweet_id" value="1432417" />
+			<date key="time:timestamp" value="2017-11-02T05:36:19" />
+			<string key="org:resource" value="383534" />
+			<string key="text" value="why is my phone doing this @AppleSupport https://t.co/eBaHOvwkPZ" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="iPhone" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1432416" />
+			<date key="time:timestamp" value="2017-11-02T13:27:04" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@383534 Let's see what's going on. Which version of iOS are you running? Reply in DM to get started. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1432416" />
+			<date key="time:timestamp" value="2017-11-02T13:27:04" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@383534 Let's see what's going on. Which version of iOS are you running? Reply in DM to get started. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1432416" />
+			<date key="time:timestamp" value="2017-11-02T13:27:04" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@383534 Let's see what's going on. Which version of iOS are you running? Reply in DM to get started. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request iOS version" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1432416" />
+			<date key="time:timestamp" value="2017-11-02T13:27:04" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@383534 Let's see what's going on. Which version of iOS are you running? Reply in DM to get started. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1443365" />
+		<event>
+			<int key="tweet_id" value="1443363" />
+			<date key="time:timestamp" value="2017-11-02T13:09:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@454895 Let's take a look at this article about Control Center in iOS 11. https://t.co/G7BHuQnDS6" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1455398" />
+		<event>
+			<int key="tweet_id" value="1455397" />
+			<date key="time:timestamp" value="2017-11-02T15:15:35" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@457802 We’d love to help. To start, please send us a DM with more details on the behavior you’re experiencing. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1455397" />
+			<date key="time:timestamp" value="2017-11-02T15:15:35" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@457802 We’d love to help. To start, please send us a DM with more details on the behavior you’re experiencing. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1455397" />
+			<date key="time:timestamp" value="2017-11-02T15:15:35" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@457802 We’d love to help. To start, please send us a DM with more details on the behavior you’re experiencing. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1537632" />
+		<event>
+			<int key="tweet_id" value="1537631" />
+			<date key="time:timestamp" value="2017-11-04T01:04:24" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@476679 We'd love to help. To start, DM us including which iOS version you're using: https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1537631" />
+			<date key="time:timestamp" value="2017-11-04T01:04:24" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@476679 We'd love to help. To start, DM us including which iOS version you're using: https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1537631" />
+			<date key="time:timestamp" value="2017-11-04T01:04:24" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@476679 We'd love to help. To start, DM us including which iOS version you're using: https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request iOS version" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1537631" />
+			<date key="time:timestamp" value="2017-11-04T01:04:24" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@476679 We'd love to help. To start, DM us including which iOS version you're using: https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1635143" />
+		<event>
+			<int key="tweet_id" value="1635142" />
+			<date key="time:timestamp" value="2017-11-05T21:11:56" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@500177 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1649064" />
+		<event>
+			<int key="tweet_id" value="1649062" />
+			<date key="time:timestamp" value="2017-11-05T22:52:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@503744 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1794160" />
+		<event>
+			<int key="tweet_id" value="1794160" />
+			<date key="time:timestamp" value="2017-10-18T00:19:38" />
+			<string key="org:resource" value="539158" />
+			<string key="text" value="@AppleSupport why is my iPhone 6 stuck at 100%?" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="iPhone" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1794158" />
+			<date key="time:timestamp" value="2017-10-18T00:29:27" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@539158 Let's take a look. How long has it been on 100%?" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1852841" />
+		<event>
+			<int key="tweet_id" value="1852841" />
+			<date key="time:timestamp" value="2017-10-19T02:26:34" />
+			<string key="org:resource" value="554474" />
+			<string key="text" value="@AppleSupport 11.0.3 has totally screwed up my phone Your consumers deserve better" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="iPhone" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1852838" />
+			<date key="time:timestamp" value="2017-10-19T02:39:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@554474 We'd like some details to assist. Which iPhone model are you having issues on? Let us know in a DM and we'll continue. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1852838" />
+			<date key="time:timestamp" value="2017-10-19T02:39:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@554474 We'd like some details to assist. Which iPhone model are you having issues on? Let us know in a DM and we'll continue. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1852838" />
+			<date key="time:timestamp" value="2017-10-19T02:39:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@554474 We'd like some details to assist. Which iPhone model are you having issues on? Let us know in a DM and we'll continue. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request iOS version" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1852838" />
+			<date key="time:timestamp" value="2017-10-19T02:39:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@554474 We'd like some details to assist. Which iPhone model are you having issues on? Let us know in a DM and we'll continue. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request device model" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1852838" />
+			<date key="time:timestamp" value="2017-10-19T02:39:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@554474 We'd like some details to assist. Which iPhone model are you having issues on? Let us know in a DM and we'll continue. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1921785" />
+		<event>
+			<int key="tweet_id" value="1921785" />
+			<date key="time:timestamp" value="2017-10-27T02:09:04" />
+			<string key="org:resource" value="572101" />
+			<string key="text" value="Updated my iPhone by accident and now I can't control my music when my phones locked @AppleSupport what is this" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="iPhone" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1921785" />
+			<date key="time:timestamp" value="2017-10-27T02:09:04" />
+			<string key="org:resource" value="572101" />
+			<string key="text" value="Updated my iPhone by accident and now I can't control my music when my phones locked @AppleSupport what is this" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Update" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1921785" />
+			<date key="time:timestamp" value="2017-10-27T02:09:04" />
+			<string key="org:resource" value="572101" />
+			<string key="text" value="Updated my iPhone by accident and now I can't control my music when my phones locked @AppleSupport what is this" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Unresponsive/Freezing Device" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1921784" />
+			<date key="time:timestamp" value="2017-10-27T02:21:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@572101 We'd love to help with your Control Center! Have you already tried restarting your iPhone? DM us to let us know. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1921784" />
+			<date key="time:timestamp" value="2017-10-27T02:21:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@572101 We'd love to help with your Control Center! Have you already tried restarting your iPhone? DM us to let us know. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1921784" />
+			<date key="time:timestamp" value="2017-10-27T02:21:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@572101 We'd love to help with your Control Center! Have you already tried restarting your iPhone? DM us to let us know. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request device restart" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2023212" />
+		<event>
+			<int key="tweet_id" value="2023214" />
+			<date key="time:timestamp" value="2017-10-18T21:36:32" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@598361 Thank you. Next, take a look at the steps in the following article to optimize your battery life: https://t.co/bivpdfBNJ6" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2043262" />
+		<event>
+			<int key="tweet_id" value="2043261" />
+			<date key="time:timestamp" value="2017-10-04T16:04:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@604233 We'd like to gather some more information for better troubleshooting. Can you DM us the country you are located in? https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2043261" />
+			<date key="time:timestamp" value="2017-10-04T16:04:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@604233 We'd like to gather some more information for better troubleshooting. Can you DM us the country you are located in? https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2043261" />
+			<date key="time:timestamp" value="2017-10-04T16:04:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@604233 We'd like to gather some more information for better troubleshooting. Can you DM us the country you are located in? https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2185463" />
+		<event>
+			<int key="tweet_id" value="2185462" />
+			<date key="time:timestamp" value="2017-11-09T18:26:45" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@640043 Thanks so much for reaching out today! We've just released an iOS update to 11.1.1 that can help with this issue. Take a look at the steps listed here to update wirelessly or through iTunes: https://t.co/80YRnjDFDk https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2255299" />
+		<event>
+			<int key="tweet_id" value="2255297" />
+			<date key="time:timestamp" value="2017-11-11T00:23:31" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@656895 Are you updating via Wi-Fi or iTunes?" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2271589" />
+		<event>
+			<int key="tweet_id" value="2271591" />
+			<date key="time:timestamp" value="2017-11-20T21:13:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@660881 You're very welcome. If you run into any issues after updating, send us a DM and we'll continue there: https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2271591" />
+			<date key="time:timestamp" value="2017-11-20T21:13:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@660881 You're very welcome. If you run into any issues after updating, send us a DM and we'll continue there: https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2279588" />
+		<event>
+			<int key="tweet_id" value="2279587" />
+			<date key="time:timestamp" value="2017-11-11T15:44:28" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@662743 Are you an Apple Music or iTunes Match member? Do you receive an error when trying to shuffle a playlist? Tell us more about what's happening and we'll take it from there." />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2294686" />
+		<event>
+			<int key="tweet_id" value="2294689" />
+			<date key="time:timestamp" value="2017-11-12T00:55:27" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@666318 Thanks for confirming that. To help with streaming movies on your Apple TV, let's give the information in this article a try: https://t.co/uchBAz5XFB  If you're in need of further assistance, please contact our Apple TV team. Here's how: https://t.co/IBIY3vMgPj" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2295759" />
+		<event>
+			<int key="tweet_id" value="2402136" />
+			<date key="time:timestamp" value="2017-11-14T14:02:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@691101 If you're experiencing issues with your iPhone, we can work together to see what's going on. DM us the exact iOS version, and we'll continue from there. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2402136" />
+			<date key="time:timestamp" value="2017-11-14T14:02:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@691101 If you're experiencing issues with your iPhone, we can work together to see what's going on. DM us the exact iOS version, and we'll continue from there. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2402136" />
+			<date key="time:timestamp" value="2017-11-14T14:02:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@691101 If you're experiencing issues with your iPhone, we can work together to see what's going on. DM us the exact iOS version, and we'll continue from there. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request iOS version" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2402136" />
+			<date key="time:timestamp" value="2017-11-14T14:02:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@691101 If you're experiencing issues with your iPhone, we can work together to see what's going on. DM us the exact iOS version, and we'll continue from there. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request device model" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2402136" />
+			<date key="time:timestamp" value="2017-11-14T14:02:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@691101 If you're experiencing issues with your iPhone, we can work together to see what's going on. DM us the exact iOS version, and we'll continue from there. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2402136" />
+			<date key="time:timestamp" value="2017-11-14T14:02:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@691101 If you're experiencing issues with your iPhone, we can work together to see what's going on. DM us the exact iOS version, and we'll continue from there. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Refer to specialist team" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2304573" />
+		<event>
+			<int key="tweet_id" value="2304573" />
+			<date key="time:timestamp" value="2017-11-12T18:46:26" />
+			<string key="org:resource" value="668661" />
+			<string key="text" value="Hey @115858 camp @UPSHelp I waited up till am on OCT 27 to preorder my iPhone X, my buddy just ordered one 4 days ago and is getting it by Tuesday, Mine is still stuck in China... FIX THIS." />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="iPhone" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2304571" />
+			<date key="time:timestamp" value="2017-11-12T20:23:30" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@668661 We do understand the anticipation of getting a new iPhone and we're happy to point you in the right direction for help. Please reach out to our Sales Support team for assistance with your order at https://t.co/8yjRd1Xo0i." />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2304571" />
+			<date key="time:timestamp" value="2017-11-12T20:23:30" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@668661 We do understand the anticipation of getting a new iPhone and we're happy to point you in the right direction for help. Please reach out to our Sales Support team for assistance with your order at https://t.co/8yjRd1Xo0i." />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Refer to specialist team" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2371200" />
+		<event>
+			<int key="tweet_id" value="2371204" />
+			<date key="time:timestamp" value="2017-11-14T01:08:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@684202 We'd love to help. Have you tried signing back into iCloud and attempting to accept the terms again to see if it allows you to a second time?" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request device restart" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2427358" />
+		<event>
+			<int key="tweet_id" value="2427361" />
+			<date key="time:timestamp" value="2017-11-14T20:26:26" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@696976 We definitely want to look into this further.   - When did you first notice this issue? - Which iOS version currently running on your device? - Has this feature ever worked with Messages?  Please let us know, and we'll go from there." />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2427361" />
+			<date key="time:timestamp" value="2017-11-14T20:26:26" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@696976 We definitely want to look into this further.   - When did you first notice this issue? - Which iOS version currently running on your device? - Has this feature ever worked with Messages?  Please let us know, and we'll go from there." />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request iOS version" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2427361" />
+			<date key="time:timestamp" value="2017-11-14T20:26:26" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@696976 We definitely want to look into this further.   - When did you first notice this issue? - Which iOS version currently running on your device? - Has this feature ever worked with Messages?  Please let us know, and we'll go from there." />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request device model" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2427361" />
+			<date key="time:timestamp" value="2017-11-14T20:26:26" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@696976 We definitely want to look into this further.   - When did you first notice this issue? - Which iOS version currently running on your device? - Has this feature ever worked with Messages?  Please let us know, and we'll go from there." />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2492300" />
+		<event>
+			<int key="tweet_id" value="2492300" />
+			<date key="time:timestamp" value="2017-11-15T17:40:25" />
+			<string key="org:resource" value="213849" />
+			<string key="text" value="Oi @115858 - Why the hell every time I update do you feck up my default calendar default contacts etc?!? STOP IT! It’s caused bloody chaos today" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Update" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2492298" />
+			<date key="time:timestamp" value="2017-11-15T18:09:12" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@213849 Let's look into this for you. What exactly happens to your contacts and calendar when you update? Let us know via DM and we can further investigate this. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2492298" />
+			<date key="time:timestamp" value="2017-11-15T18:09:12" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@213849 Let's look into this for you. What exactly happens to your contacts and calendar when you update? Let us know via DM and we can further investigate this. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2492298" />
+			<date key="time:timestamp" value="2017-11-15T18:09:12" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@213849 Let's look into this for you. What exactly happens to your contacts and calendar when you update? Let us know via DM and we can further investigate this. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2621200" />
+		<event>
+			<int key="tweet_id" value="2621198" />
+			<date key="time:timestamp" value="2017-11-17T15:57:32" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@740633 We want to look into the battery drain you're experiencing. To start, can you go to Settings &gt; General &gt; About &gt; Version and tell us the exact iOS version you're running?" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request iOS version" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2621198" />
+			<date key="time:timestamp" value="2017-11-17T15:57:32" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@740633 We want to look into the battery drain you're experiencing. To start, can you go to Settings &gt; General &gt; About &gt; Version and tell us the exact iOS version you're running?" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2705045" />
+		<event>
+			<int key="tweet_id" value="2705045" />
+			<date key="time:timestamp" value="2017-11-19T22:20:28" />
+			<string key="org:resource" value="759725" />
+			<string key="text" value="@AppleSupport I have a MacBook Air that is unable to update I have already tried every possible reset and taken it to a licensed service provider and the issue still has not been fixed" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Update" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2705045" />
+			<date key="time:timestamp" value="2017-11-19T22:20:28" />
+			<string key="org:resource" value="759725" />
+			<string key="text" value="@AppleSupport I have a MacBook Air that is unable to update I have already tried every possible reset and taken it to a licensed service provider and the issue still has not been fixed" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Mac" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2705044" />
+			<date key="time:timestamp" value="2017-11-19T22:37:27" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@759725 We're here for you. What version of macOS is your Macbook Air on currently?   Let us know in DM. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2705044" />
+			<date key="time:timestamp" value="2017-11-19T22:37:27" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@759725 We're here for you. What version of macOS is your Macbook Air on currently?   Let us know in DM. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2705044" />
+			<date key="time:timestamp" value="2017-11-19T22:37:27" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@759725 We're here for you. What version of macOS is your Macbook Air on currently?   Let us know in DM. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2775913" />
+		<event>
+			<int key="tweet_id" value="2775916" />
+			<date key="time:timestamp" value="2017-11-21T15:54:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@775653 Have you done any troubleshooting to resolve this issue already?  If so, we'll do our best not to needlessly repeat any steps to help isolate the issue. Let us know in Direct Message and we'll take a closer look. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2775916" />
+			<date key="time:timestamp" value="2017-11-21T15:54:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@775653 Have you done any troubleshooting to resolve this issue already?  If so, we'll do our best not to needlessly repeat any steps to help isolate the issue. Let us know in Direct Message and we'll take a closer look. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2775916" />
+			<date key="time:timestamp" value="2017-11-21T15:54:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@775653 Have you done any troubleshooting to resolve this issue already?  If so, we'll do our best not to needlessly repeat any steps to help isolate the issue. Let us know in Direct Message and we'll take a closer look. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2782077" />
+		<event>
+			<int key="tweet_id" value="2782076" />
+			<date key="time:timestamp" value="2017-11-21T16:58:26" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@776929 We certainly don't want you to feel this way after reaching out to us for support. Send us some details about your experience via DM, and we'll see how we can help. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2782076" />
+			<date key="time:timestamp" value="2017-11-21T16:58:26" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@776929 We certainly don't want you to feel this way after reaching out to us for support. Send us some details about your experience via DM, and we'll see how we can help. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2782076" />
+			<date key="time:timestamp" value="2017-11-21T16:58:26" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@776929 We certainly don't want you to feel this way after reaching out to us for support. Send us some details about your experience via DM, and we'll see how we can help. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2793212" />
+		<event>
+			<int key="tweet_id" value="2793210" />
+			<date key="time:timestamp" value="2017-11-21T21:05:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@779505 An update has been released to assist with this issue. If you haven’t yet, please back up your device and update it to iOS 11.1.2. For more info, check out: https://t.co/4f8hwT5to6" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2812627" />
+		<event>
+			<int key="tweet_id" value="2812625" />
+			<date key="time:timestamp" value="2017-11-27T01:27:53" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@784261 We can help with any issues you're having. Let us know more about what's going on and we'll work together towards a resolution." />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2812625" />
+			<date key="time:timestamp" value="2017-11-27T01:27:53" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@784261 We can help with any issues you're having. Let us know more about what's going on and we'll work together towards a resolution." />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2812625" />
+			<date key="time:timestamp" value="2017-11-27T01:27:53" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@784261 We can help with any issues you're having. Let us know more about what's going on and we'll work together towards a resolution." />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2845666" />
+		<event>
+			<int key="tweet_id" value="2845666" />
+			<date key="time:timestamp" value="2017-11-27T17:56:57" />
+			<string key="org:resource" value="203244" />
+			<string key="text" value="Alright @117735 @AppleSupport since I updated my iPhone I haven't been able to get to my voicemail... ink whose fault this is but its seriously interfering with my job right now" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="iPhone" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2845666" />
+			<date key="time:timestamp" value="2017-11-27T17:56:57" />
+			<string key="org:resource" value="203244" />
+			<string key="text" value="Alright @117735 @AppleSupport since I updated my iPhone I haven't been able to get to my voicemail... ink whose fault this is but its seriously interfering with my job right now" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Update" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2845665" />
+			<date key="time:timestamp" value="2017-11-27T18:08:30" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@203244 Let's look into this for you. This article can provide some guidance: https://t.co/FaFf2KILzY DM us if the issue persists. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2845665" />
+			<date key="time:timestamp" value="2017-11-27T18:08:30" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@203244 Let's look into this for you. This article can provide some guidance: https://t.co/FaFf2KILzY DM us if the issue persists. https://t.co/GDrqU22YpT" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2914648" />
+		<event>
+			<int key="tweet_id" value="2914646" />
+			<date key="time:timestamp" value="2017-11-28T23:06:29" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@447511 Hey, we'll help you so that you can send messages from your MacBook Pro. First, can you tell us the exact macOS version installed? Also, does this persist even after a restart and while connected to different networks?" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Request DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2914646" />
+			<date key="time:timestamp" value="2017-11-28T23:06:29" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@447511 Hey, we'll help you so that you can send messages from your MacBook Pro. First, can you tell us the exact macOS version installed? Also, does this persist even after a restart and while connected to different networks?" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
+	</trace>
+</log>

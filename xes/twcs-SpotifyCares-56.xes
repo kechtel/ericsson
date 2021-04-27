@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log>
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<int key="concept:name" value="272245" />
+		<event>
+			<int key="tweet_id" value="272243" />
+			<date key="time:timestamp" value="2017-10-06T03:00:05" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@180970 Hey! There's info on sorting and filtering at https://t.co/5pR9eg0nYQ. It there's anything else we could help with, let us know /AR" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="272243" />
+			<date key="time:timestamp" value="2017-10-06T03:00:05" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@180970 Hey! There's info on sorting and filtering at https://t.co/5pR9eg0nYQ. It there's anything else we could help with, let us know /AR" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Offer further help" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="497729" />
+		<event>
+			<int key="tweet_id" value="497729" />
+			<date key="time:timestamp" value="2017-12-01T16:53:31" />
+			<string key="org:resource" value="233790" />
+			<string key="text" value="@spotifycares my sister registered to Spotify with my bank account and she can't seem to remember her email nor her password Is it possibly for me to cancel my subscription" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Family Subscription" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="733559" />
+		<event>
+			<int key="tweet_id" value="733559" />
+			<date key="time:timestamp" value="2017-10-06T18:43:19" />
+			<string key="org:resource" value="295541" />
+			<string key="text" value="@115888 Hi! Why did u remove He like that by Fifth Harmony from your Teen Party playlist I was listening to it when it vanished" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Song/Artist" />
+		</event>
+		<event>
+			<int key="tweet_id" value="733559" />
+			<date key="time:timestamp" value="2017-10-06T18:43:19" />
+			<string key="org:resource" value="295541" />
+			<string key="text" value="@115888 Hi! Why did u remove He like that by Fifth Harmony from your Teen Party playlist I was listening to it when it vanished" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Playlist" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="820218" />
+		<event>
+			<int key="tweet_id" value="820216" />
+			<date key="time:timestamp" value="2017-10-12T22:10:41" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@315385 Hey there! Thanks for the feedback – we appreciate it! We’ll get this passed onto the right team /AR" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Refer to specialist team" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="863706" />
+		<event>
+			<int key="tweet_id" value="863709" />
+			<date key="time:timestamp" value="2017-11-21T21:00:18" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@325114 Thanks for the update. Can you try the steps here for us: https://t.co/EqisDMwZAT? Let us know if that helps at all /AG" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="863711" />
+			<date key="time:timestamp" value="2017-11-27T14:45:35" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@325114 Hmm. We're afraid that reinstalling the app automatically removes your downloads. Can you fire over your account's email address or username via DM? We'll take a closer look /AY https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="863711" />
+			<date key="time:timestamp" value="2017-11-27T14:45:35" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@325114 Hmm. We're afraid that reinstalling the app automatically removes your downloads. Can you fire over your account's email address or username via DM? We'll take a closer look /AY https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Request device restart" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="903051" />
+		<event>
+			<int key="tweet_id" value="903051" />
+			<date key="time:timestamp" value="2017-10-20T00:31:09" />
+			<string key="org:resource" value="334376" />
+			<string key="text" value="@SpotifyCares Absolutely ridiculous to tell a customer to wait 3 days to PAY FOR A PRODUCT because they can't fix issue on their end" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Billing/Payment" />
+		</event>
+		<event>
+			<int key="tweet_id" value="903050" />
+			<date key="time:timestamp" value="2017-10-20T00:48:17" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@334376 Hey there! Don't worry, we can look into this for you. Can you DM us your account's email address? We'll check things backstage /RI https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="903050" />
+			<date key="time:timestamp" value="2017-10-20T00:48:17" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@334376 Hey there! Don't worry, we can look into this for you. Can you DM us your account's email address? We'll check things backstage /RI https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Request email address via DM" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="939993" />
+		<event>
+			<int key="tweet_id" value="939991" />
+			<date key="time:timestamp" value="2017-10-13T23:31:37" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@342831 Got it. Can you let us know the device, OS, and Spotify version you're using? We'll see what we can suggest /KL" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Request device and OS version" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1244048" />
+		<event>
+			<int key="tweet_id" value="1244050" />
+			<date key="time:timestamp" value="2017-10-17T10:46:11" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@411864 Sorry to hear that. Could you DM us your account's username or email address? We'll take a look under the hood /RS https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1244050" />
+			<date key="time:timestamp" value="2017-10-17T10:46:11" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@411864 Sorry to hear that. Could you DM us your account's username or email address? We'll take a look under the hood /RS https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Request email address via DM" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1791314" />
+		<event>
+			<int key="tweet_id" value="1791314" />
+			<date key="time:timestamp" value="2017-10-12T22:48:59" />
+			<string key="org:resource" value="538079" />
+			<string key="text" value="@SpotifyCares It won't let me update my payment plus send help I need my music" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Billing/Payment" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1791313" />
+			<date key="time:timestamp" value="2017-10-12T22:55:41" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@538079 Hey Jennifer, help's here! Can you DM us your account's email address or username? We'll see what we can suggest /RH https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1791313" />
+			<date key="time:timestamp" value="2017-10-12T22:55:41" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@538079 Hey Jennifer, help's here! Can you DM us your account's email address or username? We'll see what we can suggest /RH https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Request username via DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1791313" />
+			<date key="time:timestamp" value="2017-10-12T22:55:41" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@538079 Hey Jennifer, help's here! Can you DM us your account's email address or username? We'll see what we can suggest /RH https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Request email address via DM" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1808874" />
+		<event>
+			<int key="tweet_id" value="1808874" />
+			<date key="time:timestamp" value="2017-10-14T11:11:42" />
+			<string key="org:resource" value="543430" />
+			<string key="text" value="@117153 why is my subscription is terminated I tried to go premium but its terminated" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Premium" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1808874" />
+			<date key="time:timestamp" value="2017-10-14T11:11:42" />
+			<string key="org:resource" value="543430" />
+			<string key="text" value="@117153 why is my subscription is terminated I tried to go premium but its terminated" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Account" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1808874" />
+			<date key="time:timestamp" value="2017-10-14T11:11:42" />
+			<string key="org:resource" value="543430" />
+			<string key="text" value="@117153 why is my subscription is terminated I tried to go premium but its terminated" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Billing/Payment" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1808873" />
+			<date key="time:timestamp" value="2017-10-14T16:01:17" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@543430 Hey, that's not cool! Can you DM us your account's username or email address? We'll take a look under the hood /JM https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1808873" />
+			<date key="time:timestamp" value="2017-10-14T16:01:17" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@543430 Hey, that's not cool! Can you DM us your account's username or email address? We'll take a look under the hood /JM https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Request username via DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1808873" />
+			<date key="time:timestamp" value="2017-10-14T16:01:17" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@543430 Hey, that's not cool! Can you DM us your account's username or email address? We'll take a look under the hood /JM https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Request email address via DM" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1825031" />
+		<event>
+			<int key="tweet_id" value="1825031" />
+			<date key="time:timestamp" value="2017-10-18T04:27:31" />
+			<string key="org:resource" value="547860" />
+			<string key="text" value="hey bro @SpotifyCares @115888 your app isnt even attempting to let me sign in on the newest update" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="App" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1825030" />
+			<date key="time:timestamp" value="2017-10-18T04:29:27" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@547860 Hey there! Can you DM us your account's email address or username? We'll take a look /NS https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1825030" />
+			<date key="time:timestamp" value="2017-10-18T04:29:27" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@547860 Hey there! Can you DM us your account's email address or username? We'll take a look /NS https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Request username via DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="1825030" />
+			<date key="time:timestamp" value="2017-10-18T04:29:27" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@547860 Hey there! Can you DM us your account's email address or username? We'll take a look /NS https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Request email address via DM" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="1915249" />
+		<event>
+			<int key="tweet_id" value="1915248" />
+			<date key="time:timestamp" value="2017-11-25T14:10:34" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@570477 Hi there. We're launching in new countries as often as possible. Be sure to add your email at https://t.co/X8DVSX9QgM /QI" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2022251" />
+		<event>
+			<int key="tweet_id" value="2289618" />
+			<date key="time:timestamp" value="2017-11-12T05:34:32" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@665163 Hi there! Can you DM us your account's email address or username? We'll take a look backstage /NQ https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2289618" />
+			<date key="time:timestamp" value="2017-11-12T05:34:32" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@665163 Hi there! Can you DM us your account's email address or username? We'll take a look backstage /NQ https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Request username via DM" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2289618" />
+			<date key="time:timestamp" value="2017-11-12T05:34:32" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@665163 Hi there! Can you DM us your account's email address or username? We'll take a look backstage /NQ https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Request email address via DM" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2029709" />
+		<event>
+			<int key="tweet_id" value="2029709" />
+			<date key="time:timestamp" value="2017-11-07T04:51:16" />
+			<string key="org:resource" value="489670" />
+			<string key="text" value="@115888 I'm having problems with my account Can you direct me to the right contact" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Account" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2029709" />
+			<date key="time:timestamp" value="2017-11-07T04:51:16" />
+			<string key="org:resource" value="489670" />
+			<string key="text" value="@115888 I'm having problems with my account Can you direct me to the right contact" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Billing/Payment" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2029706" />
+			<date key="time:timestamp" value="2017-11-07T05:07:55" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@489670 Hey, help's here! Can you DM us your account's email, and let us know what's going on? We'll take a look /RB https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2029706" />
+			<date key="time:timestamp" value="2017-11-07T05:07:55" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@489670 Hey, help's here! Can you DM us your account's email, and let us know what's going on? We'll take a look /RB https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Request email address via DM" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2075450" />
+		<event>
+			<int key="tweet_id" value="2075450" />
+			<date key="time:timestamp" value="2017-10-19T02:26:40" />
+			<string key="org:resource" value="613788" />
+			<string key="text" value="@115888 @SpotifyCares Hi Spotify, you accidentally charged me 5 times can you please help me resolve this issue please Thanks." />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Billing/Payment" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2075448" />
+			<date key="time:timestamp" value="2017-10-19T02:28:46" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@613788 Hey there! Can you DM us your account's email address? We'll take a look /RB https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2075448" />
+			<date key="time:timestamp" value="2017-10-19T02:28:46" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@613788 Hey there! Can you DM us your account's email address? We'll take a look /RB https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Request email address via DM" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2369703" />
+		<event>
+			<int key="tweet_id" value="2369703" />
+			<date key="time:timestamp" value="2017-11-13T23:41:06" />
+			<string key="org:resource" value="683862" />
+			<string key="text" value="Hey @SpotifyCares - why do you make updating payment methods so hard and also why don't you have a phone number I just want to give you my money thanks" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Billing/Payment" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2483227" />
+		<event>
+			<int key="tweet_id" value="2483227" />
+			<date key="time:timestamp" value="2017-10-29T21:39:27" />
+			<string key="org:resource" value="709456" />
+			<string key="text" value="Does anyone know how to export notify playlists might have a free plan but the stupid ads which play sound while playing songs is stupid" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Playlist" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2483227" />
+			<date key="time:timestamp" value="2017-10-29T21:39:27" />
+			<string key="org:resource" value="709456" />
+			<string key="text" value="Does anyone know how to export notify playlists might have a free plan but the stupid ads which play sound while playing songs is stupid" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Advertisement" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2483226" />
+			<date key="time:timestamp" value="2017-10-29T23:45:51" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@709456 Hey there! Could you try uninstalling and reinstalling the app? Let us know how it goes /DF" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Request device restart" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2699581" />
+		<event>
+			<int key="tweet_id" value="2699581" />
+			<date key="time:timestamp" value="2017-11-26T20:35:25" />
+			<string key="org:resource" value="758409" />
+			<string key="text" value="@SpotifyCares I can't add family members to my family account i" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Family Subscription" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2699580" />
+			<date key="time:timestamp" value="2017-11-26T22:32:58" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@758409 Hi there, that doesn't sound good! Can you DM us your and their accounts' email addresses? We'll take a look backstage /AK https://t.co/ldFdZRiNAt" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2886011" />
+		<event>
+			<int key="tweet_id" value="2886010" />
+			<date key="time:timestamp" value="2017-11-28T11:58:46" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@800445 Hey Kaysha, sorry to hear that. Check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this. Let us know if there's anything else /AY" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Provide URL" />
+		</event>
+		<event>
+			<int key="tweet_id" value="2886010" />
+			<date key="time:timestamp" value="2017-11-28T11:58:46" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@800445 Hey Kaysha, sorry to hear that. Check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this. Let us know if there's anything else /AY" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Offer further help" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2970791" />
+		<event>
+			<int key="tweet_id" value="2970789" />
+			<date key="time:timestamp" value="2017-11-30T00:55:18" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@819436 Hey there! What operating system and Spotify version are you using? We'll see what we can suggest /RB" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Request device and OS version" />
+		</event>
+	</trace>
+</log>
