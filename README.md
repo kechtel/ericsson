@@ -1,5 +1,7 @@
 # ERICSSON - Event log constRuctIon from CuStomer Service cOnversatioNs
 
+![example workflow](https://github.com/kechtel/ericsson/actions/workflows/python-app.yml/badge.svg)
+
 This repository contains the source code and the online appendix for our paper entitled "Event Log Construction from Customer Service Conversations using Natural Language Inference". 
 For a more comprehensive overview of the approach and the steps invoked in the scripts listed below we refer to the paper.
 
