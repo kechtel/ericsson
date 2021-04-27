@@ -1,2 +1,1 @@
-# ericsson
-ERICSSON - Event log constRuctIon from CuStomer Service cOnversatioNs
+# ERICSSON - Event log constRuctIon from CuStomer Service cOnversatioNs
