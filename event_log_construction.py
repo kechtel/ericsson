@@ -53,6 +53,9 @@ def to_event_log(df_conversations, df_activity_mappings, df_topic_mappings, nlp_
         pickle.dump(nlp_cache, outfile)
 
     df_event_log['text'] = df_event_log['text'].map(lambda x: x.replace('"', r'\''))
+    df_event_log['text'] = df_event_log['text'].map(lambda x: x.replace('<', r'&lt;'))
+    df_event_log['text'] = df_event_log['text'].map(lambda x: x.replace('>', r'&gt;'))
+    df_event_log['text'] = df_event_log['text'].map(lambda x: x.replace('& amp;', r'&amp;'))
 
     df_event_log = rename_df_for_xes(df_event_log)
     df_event_log = df_event_log.explode('concept:name')
