@@ -70,3 +70,14 @@ To run the file, execute the following command:
 ```
 python3 event_log_construction.py
 ```
+
+## Process Mining
+
+The file `process_mining.py` discovers and visualizes process models from the conversations using PM4Py's Alpha Miner, Heuristics Miner, Inductive Miner, and Directly Follows Graph.
+It requires the XES log obtained by converting the conversations in the path `xes` and filters the log by traces that start with a message of the customer and futhermore applies PM4Py's auto variants filter with a decreasing factor of 0.7.
+The resulting visualized process models are saved in the path `results/process-discovery`.
+To run the file, execute the following command:
+
+```
+python3 process_mining.py
+```
