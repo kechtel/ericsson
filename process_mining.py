@@ -32,39 +32,42 @@ def print_variants_count(log):
     print(sorted(variants_count, key=lambda x: x['count'], reverse=True))
 
 
-def visualize_alpha_miner(log):
+def apply_alpha_miner(log, path, filename):
     net, initial_marking, final_marking = alpha_miner.apply(log)
     gviz = pn_visualizer.apply(net, initial_marking, final_marking, variant=pn_visualizer.Variants.FREQUENCY, log=log)
-    pn_visualizer.view(gviz)
+    pn_visualizer.save(gviz, os.path.join(path, filename.format(algorithm='alpha_miner')))
 
 
-def visualize_heuristics_miner(log):
+def apply_heuristics_miner(log, path, filename):
     net, initial_marking, final_marking = heuristics_miner.apply(log)
     gviz = pn_visualizer.apply(net, initial_marking, final_marking, variant=pn_visualizer.Variants.FREQUENCY, log=log)
-    pn_visualizer.view(gviz)
+    pn_visualizer.save(gviz, os.path.join(path, filename.format(algorithm='heuristics_miner')))
 
 
-def visualize_inductive_miner(log):
+def apply_inductive_miner(log, path, filename):
     net, initial_marking, final_marking = inductive_miner.apply(log)
     gviz = pn_visualizer.apply(net, initial_marking, final_marking, variant=pn_visualizer.Variants.FREQUENCY, log=log)
-    pn_visualizer.view(gviz)
+    pn_visualizer.save(gviz, os.path.join(path, filename.format(algorithm='inductive_miner')))
 
 
-def visualize_directly_follows_graph(log):
+def apply_directly_follows_graph(log, path, filename):
     dfg = dfg_discovery.apply(log)
     gviz = dfg_visualization.apply(dfg, log=log, variant=dfg_visualization.Variants.FREQUENCY)
-    dfg_visualization.view(gviz)
+    dfg_visualization.save(gviz, os.path.join(path, filename.format(algorithm='directly_follows_graph')))
 
 
-def visualize_discovery(log):
+def process_discovery(log, path, filename):
     print_variants_count(log)
-    visualize_alpha_miner(log)
-    visualize_heuristics_miner(log)
-    visualize_inductive_miner(log)
-    visualize_directly_follows_graph(log)
+    apply_alpha_miner(log, path, filename)
+    apply_heuristics_miner(log, path, filename)
+    apply_inductive_miner(log, path, filename)
+    apply_directly_follows_graph(log, path, filename)
 
 
 if __name__ == '__main__':
+
+    if not os.path.exists(os.path.join('results', 'process-discovery')):
+        os.mkdir(os.path.join('results', 'process-discovery'))
 
     for filename in os.listdir('xes'):
         log = xes_importer.apply(os.path.join('xes', filename))
@@ -72,4 +75,5 @@ if __name__ == '__main__':
         log = filter_classified_start_activities(log, company)
         log = variants_filter.apply_auto_filter(log, parameters={
             start_activities_filter.Parameters.DECREASING_FACTOR: 0.7})
-        visualize_discovery(log)
+        process_discovery_filename = '{company}-{{algorithm}}.png'.format(company=company)
+        process_discovery(log, os.path.join('results', 'process-discovery'), process_discovery_filename)
