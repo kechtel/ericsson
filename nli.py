@@ -42,7 +42,7 @@ def predict(df, df_nli_template, nlp_cache):
     for header in list(df_nli_template):
         hypotheses = df_nli_template[header].dropna().values.tolist()
         if len(hypotheses) == 0:
-            break
+            continue
         hypotheses_labels = ['pred_' + header + '_' + hypothesis for hypothesis in hypotheses]
         df[[label for label in hypotheses_labels]] = df.text.apply(lambda x: pd.Series(nlp(x, hypotheses, nlp_cache)))
     return df
