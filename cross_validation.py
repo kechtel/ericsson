@@ -21,7 +21,7 @@ def cross_validate_nli_template(df, df_nli_template):
     for header in list(df_nli_template):
         hypotheses = df_nli_template[header].dropna().values.tolist()
         if len(hypotheses) == 0:
-            break
+            continue
         for hypothesis in hypotheses:
             num_positive_instances = len(df[df[header] == 1].index)
             if num_positive_instances >= 3:
