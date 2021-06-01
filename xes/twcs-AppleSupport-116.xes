@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <log>
-	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
 	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
 	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
 	<string key="origin" value="csv" />
 	<trace>
@@ -114,6 +114,14 @@
 			<string key="company" value="AppleSupport" />
 			<string key="concept:name" value="Mac" />
 		</event>
+		<event>
+			<int key="tweet_id" value="483260" />
+			<date key="time:timestamp" value="2017-12-01T14:18:00" />
+			<string key="org:resource" value="AppleSupport" />
+			<string key="text" value="@229950 Having your MacBook Pro working great is our goal and we'd like to help. Do you notice this performance issue with only certain applications or does it appear to be system wide with all features and software?" />
+			<string key="company" value="AppleSupport" />
+			<string key="concept:name" value="Investigate issue" />
+		</event>
 	</trace>
 	<trace>
 		<int key="concept:name" value="506589" />
@@ -124,14 +132,6 @@
 			<string key="text" value="ios 11.1.2 battery @applesupport All of my incoming and outgoing calls are failing I can't use my telephone to make a telephone call HELP!" />
 			<string key="company" value="AppleSupport" />
 			<string key="concept:name" value="iPhone" />
-		</event>
-		<event>
-			<int key="tweet_id" value="506589" />
-			<date key="time:timestamp" value="2017-12-01T20:46:13" />
-			<string key="org:resource" value="236242" />
-			<string key="text" value="ios 11.1.2 battery @applesupport All of my incoming and outgoing calls are failing I can't use my telephone to make a telephone call HELP!" />
-			<string key="company" value="AppleSupport" />
-			<string key="concept:name" value="iCloud" />
 		</event>
 		<event>
 			<int key="tweet_id" value="506588" />
@@ -509,14 +509,6 @@
 			<string key="concept:name" value="Unresponsive/Freezing Device" />
 		</event>
 		<event>
-			<int key="tweet_id" value="1131476" />
-			<date key="time:timestamp" value="2017-11-01T16:41:06" />
-			<string key="org:resource" value="127220" />
-			<string key="text" value="Is yall gonna fix ioses or nah @115858? I'm tired of my shit crashing" />
-			<string key="company" value="AppleSupport" />
-			<string key="concept:name" value="iCloud" />
-		</event>
-		<event>
 			<int key="tweet_id" value="1131475" />
 			<date key="time:timestamp" value="2017-11-01T17:21:00" />
 			<string key="org:resource" value="AppleSupport" />
@@ -868,14 +860,6 @@
 			<string key="org:resource" value="AppleSupport" />
 			<string key="text" value="@554474 We'd like some details to assist. Which iPhone model are you having issues on? Let us know in a DM and we'll continue. https://t.co/GDrqU22YpT" />
 			<string key="company" value="AppleSupport" />
-			<string key="concept:name" value="Request iOS version" />
-		</event>
-		<event>
-			<int key="tweet_id" value="1852838" />
-			<date key="time:timestamp" value="2017-10-19T02:39:00" />
-			<string key="org:resource" value="AppleSupport" />
-			<string key="text" value="@554474 We'd like some details to assist. Which iPhone model are you having issues on? Let us know in a DM and we'll continue. https://t.co/GDrqU22YpT" />
-			<string key="company" value="AppleSupport" />
 			<string key="concept:name" value="Request device model" />
 		</event>
 		<event>
@@ -904,14 +888,6 @@
 			<string key="text" value="Updated my iPhone by accident and now I can't control my music when my phones locked @AppleSupport what is this" />
 			<string key="company" value="AppleSupport" />
 			<string key="concept:name" value="Update" />
-		</event>
-		<event>
-			<int key="tweet_id" value="1921785" />
-			<date key="time:timestamp" value="2017-10-27T02:09:04" />
-			<string key="org:resource" value="572101" />
-			<string key="text" value="Updated my iPhone by accident and now I can't control my music when my phones locked @AppleSupport what is this" />
-			<string key="company" value="AppleSupport" />
-			<string key="concept:name" value="Unresponsive/Freezing Device" />
 		</event>
 		<event>
 			<int key="tweet_id" value="1921784" />

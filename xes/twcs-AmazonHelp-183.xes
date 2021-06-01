@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <log>
-	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
 	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
 	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
 	<string key="origin" value="csv" />
 	<trace>
@@ -59,14 +59,6 @@
 			<string key="text" value="@115850 find ordered kindle wich was not delivered.He canceled order camp U agreed Bt after a month U i denying to give refund Disappointing" />
 			<string key="company" value="AmazonHelp" />
 			<string key="concept:name" value="Order Cancellation" />
-		</event>
-		<event>
-			<int key="tweet_id" value="21490" />
-			<date key="time:timestamp" value="2017-11-01T07:18:39" />
-			<string key="org:resource" value="120693" />
-			<string key="text" value="@115850 find ordered kindle wich was not delivered.He canceled order camp U agreed Bt after a month U i denying to give refund Disappointing" />
-			<string key="company" value="AmazonHelp" />
-			<string key="concept:name" value="Refund" />
 		</event>
 		<event>
 			<int key="tweet_id" value="21489" />
@@ -219,14 +211,6 @@
 			<string key="text" value="@115821 this is very bad service from amazon that i refund the item 20 days back but still i didn't get my money back... Disgusting..." />
 			<string key="company" value="AmazonHelp" />
 			<string key="concept:name" value="Return" />
-		</event>
-		<event>
-			<int key="tweet_id" value="381735" />
-			<date key="time:timestamp" value="2017-10-09T08:37:09" />
-			<string key="org:resource" value="206517" />
-			<string key="text" value="@115821 this is very bad service from amazon that i refund the item 20 days back but still i didn't get my money back... Disgusting..." />
-			<string key="company" value="AmazonHelp" />
-			<string key="concept:name" value="Refund" />
 		</event>
 		<event>
 			<int key="tweet_id" value="381733" />
@@ -503,14 +487,6 @@
 			<string key="text" value="@301369 I'm sorry to know this. Did you happen to escalate this to our support team here: https://t.co/T6y6Xlutbs? ^VN (1/2)" />
 			<string key="company" value="AmazonHelp" />
 			<string key="concept:name" value="Refer to specialist team" />
-		</event>
-		<event>
-			<int key="tweet_id" value="759011" />
-			<date key="time:timestamp" value="2017-10-11T19:33:31" />
-			<string key="org:resource" value="AmazonHelp" />
-			<string key="text" value="@301369 I'm sorry to know this. Did you happen to escalate this to our support team here: https://t.co/T6y6Xlutbs? ^VN (1/2)" />
-			<string key="company" value="AmazonHelp" />
-			<string key="concept:name" value="Investigate Issue" />
 		</event>
 		<event>
 			<int key="tweet_id" value="759007" />
@@ -867,14 +843,6 @@
 			<string key="text" value="@458245 Orders will be delivered by estimates given.  Can U please confirm if it is past estimated delivery date provided. (1/2)^VH" />
 			<string key="company" value="AmazonHelp" />
 			<string key="concept:name" value="Provide delivery date" />
-		</event>
-		<event>
-			<int key="tweet_id" value="1457328" />
-			<date key="time:timestamp" value="2017-10-19T04:57:02" />
-			<string key="org:resource" value="AmazonHelp" />
-			<string key="text" value="@458245 Orders will be delivered by estimates given.  Can U please confirm if it is past estimated delivery date provided. (1/2)^VH" />
-			<string key="company" value="AmazonHelp" />
-			<string key="concept:name" value="Investigate Issue" />
 		</event>
 	</trace>
 	<trace>
@@ -1448,14 +1416,6 @@
 			<string key="company" value="AmazonHelp" />
 			<string key="concept:name" value="Provide URL" />
 		</event>
-		<event>
-			<int key="tweet_id" value="2790446" />
-			<date key="time:timestamp" value="2017-11-21T20:16:31" />
-			<string key="org:resource" value="AmazonHelp" />
-			<string key="text" value="@778825 I understand where you're coming from, for sure. Are you noticing this happen more often with a certain carrier? You can check your recent orders here: https://t.co/Y5jpI9gRhE ^DW" />
-			<string key="company" value="AmazonHelp" />
-			<string key="concept:name" value="Investigate Issue" />
-		</event>
 	</trace>
 	<trace>
 		<int key="concept:name" value="2840142" />
@@ -1520,14 +1480,6 @@
 			<string key="text" value="@812836 I apologize for the disappointment, Rob! This is definitely not the customer experience we strive for. Can you tell us more about what's going on? ^SC" />
 			<string key="company" value="AmazonHelp" />
 			<string key="concept:name" value="Apologize" />
-		</event>
-		<event>
-			<int key="tweet_id" value="2941944" />
-			<date key="time:timestamp" value="2017-11-29T14:11:30" />
-			<string key="org:resource" value="AmazonHelp" />
-			<string key="text" value="@812836 I apologize for the disappointment, Rob! This is definitely not the customer experience we strive for. Can you tell us more about what's going on? ^SC" />
-			<string key="company" value="AmazonHelp" />
-			<string key="concept:name" value="Investigate Issue" />
 		</event>
 	</trace>
 	<trace>

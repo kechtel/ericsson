@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <log>
-	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
 	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
 	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
 	<string key="origin" value="csv" />
 	<trace>
@@ -32,6 +32,14 @@
 			<string key="text" value="@spotifycares my sister registered to Spotify with my bank account and she can't seem to remember her email nor her password Is it possibly for me to cancel my subscription" />
 			<string key="company" value="SpotifyCares" />
 			<string key="concept:name" value="Family Subscription" />
+		</event>
+		<event>
+			<int key="tweet_id" value="497729" />
+			<date key="time:timestamp" value="2017-12-01T16:53:31" />
+			<string key="org:resource" value="233790" />
+			<string key="text" value="@spotifycares my sister registered to Spotify with my bank account and she can't seem to remember her email nor her password Is it possibly for me to cancel my subscription" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Billing/Payment" />
 		</event>
 	</trace>
 	<trace>
@@ -424,6 +432,17 @@
 			<string key="text" value="@758409 Hi there, that doesn't sound good! Can you DM us your and their accounts' email addresses? We'll take a look backstage /AK https://t.co/ldFdZRiNAt" />
 			<string key="company" value="SpotifyCares" />
 			<string key="concept:name" value="Provide URL" />
+		</event>
+	</trace>
+	<trace>
+		<int key="concept:name" value="2866630" />
+		<event>
+			<int key="tweet_id" value="2866633" />
+			<date key="time:timestamp" value="2017-11-28T04:40:14" />
+			<string key="org:resource" value="SpotifyCares" />
+			<string key="text" value="@796177 We understand how you feel. Don't worry, we'll make sure to pass on your feedback to the team /RB" />
+			<string key="company" value="SpotifyCares" />
+			<string key="concept:name" value="Refer to specialist team" />
 		</event>
 	</trace>
 	<trace>
