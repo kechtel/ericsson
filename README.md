@@ -42,7 +42,7 @@ python3 nli.py
 ## Cross Validation
 
 The file `cross_validation.py` determines the optimal binary classification decision threshold using cross-validation for each of the NLI hypotheses evaluated in the previous step and reports binary classification evaluation metrics for each of the hypotheses.
-The results are saved in the path `results/cv`.
+The results are saved in the path `results/nli-cv`.
 To run the file, execute the following command:
 
 ```
