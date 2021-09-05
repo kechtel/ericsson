@@ -1,2 +1,5 @@
 nlp_cache.pkl filter=lfs diff=lfs merge=lfs -text
 twcs.csv filter=lfs diff=lfs merge=lfs -text
+xes/entire-dataset/twcs-AmazonHelp-288828.xes filter=lfs diff=lfs merge=lfs -text
+xes/entire-dataset/twcs-AppleSupport-231683.xes filter=lfs diff=lfs merge=lfs -text
+xes/entire-dataset/twcs-SpotifyCares-88774.xes filter=lfs diff=lfs merge=lfs -text
