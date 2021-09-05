@@ -80,7 +80,8 @@ if __name__ == '__main__':
     if not os.path.exists('xes'):
         os.mkdir('xes')
 
-    for filename in os.listdir(os.path.join('data', 'preprocessed')):
+    for filename in [filename for filename in os.listdir(os.path.join('data', 'preprocessed'))
+                     if filename.startswith('twcs')]:
         company, tweets = parse_filename(filename)
         activity_mappings_file = os.path.join('data', 'topics-activities', 'twcs-' + company + '-outbound-activities.xlsx')
         topic_mappings_file = os.path.join('data', 'topics-activities', 'twcs-' + company + '-inbound-topics.xlsx')
